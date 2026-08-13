@@ -1,0 +1,456 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Papers",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Applications",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-02-23T11:17:36Z",
+                "owner": "Bisonai",
+                "repo": "awesome-edge-machine-learning",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AutoML",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-02-23T11:17:36Z",
+                "owner": "Bisonai",
+                "repo": "awesome-edge-machine-learning",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Efficient Architectures",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-02-23T11:17:36Z",
+                "owner": "Bisonai",
+                "repo": "awesome-edge-machine-learning",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Federated Learning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-02-23T11:17:36Z",
+                "owner": "Bisonai",
+                "repo": "awesome-edge-machine-learning",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ML Algorithms For Edge",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-02-23T11:17:36Z",
+                "owner": "Bisonai",
+                "repo": "awesome-edge-machine-learning",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Network Pruning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-02-23T11:17:36Z",
+                "owner": "Bisonai",
+                "repo": "awesome-edge-machine-learning",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Others",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-02-23T11:17:36Z",
+                "owner": "Bisonai",
+                "repo": "awesome-edge-machine-learning",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quantization",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-02-23T11:17:36Z",
+                "owner": "Bisonai",
+                "repo": "awesome-edge-machine-learning",
+                "stars": 281
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-23T11:17:36Z",
+            "owner": "Bisonai",
+            "repo": "awesome-edge-machine-learning",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Datasets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-23T11:17:36Z",
+            "owner": "Bisonai",
+            "repo": "awesome-edge-machine-learning",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inference Engines",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-23T11:17:36Z",
+            "owner": "Bisonai",
+            "repo": "awesome-edge-machine-learning",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCU and MPU Software Packages",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-23T11:17:36Z",
+            "owner": "Bisonai",
+            "repo": "awesome-edge-machine-learning",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Chips",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-23T11:17:36Z",
+            "owner": "Bisonai",
+            "repo": "awesome-edge-machine-learning",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Books",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-23T11:17:36Z",
+            "owner": "Bisonai",
+            "repo": "awesome-edge-machine-learning",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Challenges",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-23T11:17:36Z",
+            "owner": "Bisonai",
+            "repo": "awesome-edge-machine-learning",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Other Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-23T11:17:36Z",
+            "owner": "Bisonai",
+            "repo": "awesome-edge-machine-learning",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Contribute",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-23T11:17:36Z",
+            "owner": "Bisonai",
+            "repo": "awesome-edge-machine-learning",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LicenseBlock",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-23T11:17:36Z",
+            "owner": "Bisonai",
+            "repo": "awesome-edge-machine-learning",
+            "stars": 281
+          }
+        }
+      ],
+      "title": "Table of Contents"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "There is a countless number of possible edge machine learning applications. Here, we collect papers that describe specific solutions.",
+      "items": [],
+      "title": "Applications"
+    },
+    {
+      "description": "Automated machine learning (AutoML) is the process of automating the end-to-end process of applying machine learning to real-world problems.Wikipedia AutoML is for example used to design new efficient neural architectures with a constraint on a computational budget (defined either as a number of FLOPS or as an inference time measured on real device) or a size of the architecture.",
+      "items": [],
+      "title": "AutoML"
+    },
+    {
+      "description": "Efficient architectures represent neural networks with small memory footprint and fast inference time when measured on edge devices.",
+      "items": [],
+      "title": "Efficient Architectures"
+    },
+    {
+      "description": "Federated Learning enables mobile phones to collaboratively learn a shared prediction model while keeping all the training data on device, decoupling the ability to do machine learning from the need to store the data in the cloud.Google AI blog: Federated Learning",
+      "items": [],
+      "title": "Federated Learning"
+    },
+    {
+      "description": "Standard machine learning algorithms are not always able to run on edge devices due to large computational requirements and space complexity. This section introduces optimized machine learning algorithms.",
+      "items": [],
+      "title": "ML Algorithms For Edge"
+    },
+    {
+      "description": "Pruning is a common method to derive a compact network – after training, some structural portion of the parameters is removed, along with its associated computations.Importance Estimation for Neural Network Pruning",
+      "items": [],
+      "title": "Network Pruning"
+    },
+    {
+      "description": "This section contains papers that are related to edge machine learning but are not part of any major group. These papers often deal with deployment issues (i.e. optimizing inference on target platform).",
+      "items": [],
+      "title": "Others"
+    },
+    {
+      "description": "Quantization is the process of reducing a precision (from 32 bit floating point into lower bit depth representations) of weights and/or activations in a neural network. The advantages of this method are reduced model size and faster model inference on hardware that support arithmetic operations in lower precision.",
+      "items": [],
+      "title": "Quantization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Datasets"
+    },
+    {
+      "description": "Visual Wake Words represents a common microcontroller vision use-case of identifying whether a person is present in the image or not, and provides a realistic benchmark for tiny vision models. Within a limited memory footprint of 250 KB, several state-of-the-art mobile models achieve accuracy of 85-90% on the Visual Wake Words dataset.",
+      "items": [],
+      "title": "Visual Wake Words Dataset"
+    },
+    {
+      "description": "List of machine learning inference engines and APIs that are optimized for execution and/or training on edge devices.",
+      "items": [],
+      "title": "Inference Engines"
+    },
+    {
+      "description": "List of software packages for AI development on MCU and MPU",
+      "items": [],
+      "title": "MCU and MPU Software Packages"
+    },
+    {
+      "description": "STM32Cube function pack for ultra-low power IoT node with artificial intelligence (AI) application based on audio and motion sensing",
+      "items": [],
+      "title": "FP-AI-Sensing"
+    },
+    {
+      "description": "FP-AI-VISION1 is an STM32Cube function pack featuring examples of computer vision applications based on Convolutional Neural Network (CNN)",
+      "items": [],
+      "title": "FP-AI-VISION1"
+    },
+    {
+      "description": "TIDL software framework leverages a highly optimized neural network implementation on TI’s Sitara AM57x processors, making use of hardware acceleration on the device",
+      "items": [],
+      "title": "Processor SDK Linux for AM57x"
+    },
+    {
+      "description": "X-LINUX-AI-CV is an STM32 MPU OpenSTLinux Expansion Package that targets Artificial Intelligence for computer vision applications based on Convolutional Neural Network (CNN)",
+      "items": [],
+      "title": "X-LINUX-AI-CV"
+    },
+    {
+      "description": "Based on the output result from the translator, the ROM/RAM mounting size and the inference execution processing time are calculated while referring to the information of the selected MCU/MPU",
+      "items": [],
+      "title": "e-AI Checker"
+    },
+    {
+      "description": "Tool for converting Caffe and TensorFlow models to MCU/MPU development environment",
+      "items": [],
+      "title": "e-AI Translator"
+    },
+    {
+      "description": "The NXP eIQ™ Auto deep learning (DL) toolkit enables developers to introduce DL algorithms into their applications and to continue satisfying automotive standards",
+      "items": [],
+      "title": "eIQ Auto deep learning (DL) toolkit"
+    },
+    {
+      "description": "The NXP® eIQ™ machine learning software development environment enables the use of ML algorithms on NXP MCUs, i.MX RT crossover MCUs, and i.MX family SoCs. eIQ software includes inference engines, neural network compilers and optimized libraries",
+      "items": [],
+      "title": "eIQ ML Software Development Environment"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "eIQ™ Software for Arm® NN Inference Engine"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "eIQ™ for Arm® CMSIS-NN"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "eIQ™ for Glow Neural Network Compiler"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "eIQ™ for TensorFlow Lite"
+    },
+    {
+      "description": "List of resources about AI Chips",
+      "items": [],
+      "title": "AI Chips"
+    },
+    {
+      "description": "A list of ICs and IPs for AI, Machine Learning and Deep Learning",
+      "items": [],
+      "title": "AI Chip (ICs and IPs)"
+    },
+    {
+      "description": "List of books with focus on on-device (e.g., edge or mobile) machine learning.",
+      "items": [],
+      "title": "Books"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Challenges"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other Resources"
+    },
+    {
+      "description": "Embedded and mobile deep learning research resources",
+      "items": [],
+      "title": "Awesome EMDL"
+    },
+    {
+      "description": "A curated list of neural network pruning resources",
+      "items": [],
+      "title": "Awesome Pruning"
+    },
+    {
+      "description": "Collection of recent methods on DNN compression and acceleration",
+      "items": [],
+      "title": "Efficient DNNs"
+    },
+    {
+      "description": "Machine learning tutorials targeted for iOS devices",
+      "items": [],
+      "title": "Machine Think"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pete Warden's blog"
+    },
+    {
+      "description": "Unlike other awesome list, we are storing data in YAML format and markdown files are generated with script.\nEvery directory contains which stores data we want to display and which stores its metadata (e.g. way of sorting data). The way how data will be presented is defined in .",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, Bisonai has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "LicenseBlock"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:12:24.834Z",
+    "original_repository": "Bisonai/awesome-edge-machine-learning",
+    "original_repository_sha": "e682492d534cf1dc31ff238393b5e4407c095512",
+    "enhanced_repository": "enhansome/enhansome-edge-machine-learning",
+    "enhanced_repository_description": null,
+    "title": "Awesome Edge Machine Learning with stars"
+  }
+}

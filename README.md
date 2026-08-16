@@ -71,7 +71,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Arm Compute Library
 
-* Source code: <https://github.com/ARM-software/ComputeLibrary> ⭐ 3,181 | 🐛 3 | 🌐 C++ | 📅 2026-08-12
+* Source code: <https://github.com/ARM-software/ComputeLibrary> ⭐ 3,182 | 🐛 3 | 🌐 C++ | 📅 2026-08-12
 * Arm
 
 ### Bender
@@ -82,7 +82,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Caffe 2
 
-* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 102,387 | 🐛 17,307 | 🌐 Python | 📅 2026-08-15
+* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 102,396 | 🐛 17,326 | 🌐 Python | 📅 2026-08-16
 * Documentation: <https://caffe2.ai/>
 * Facebook
 
@@ -115,7 +115,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### MNN
 
-* Source code: <https://github.com/alibaba/MNN> ⭐ 15,881 | 🐛 17 | 🌐 C++ | 📅 2026-08-14
+* Source code: <https://github.com/alibaba/MNN> ⭐ 15,884 | 🐛 18 | 🌐 C++ | 📅 2026-08-14
 * Alibaba
 
 ### MXNet
@@ -125,7 +125,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### NCNN
 
-* Source code: <https://github.com/tencent/ncnn> ⭐ 23,698 | 🐛 1,216 | 🌐 C++ | 📅 2026-08-13
+* Source code: <https://github.com/tencent/ncnn> ⭐ 23,700 | 🐛 1,221 | 🌐 C++ | 📅 2026-08-13
 * Tencent
 
 ### Neural Networks API
@@ -150,7 +150,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### TensorFlow Lite
 
-* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 197,027 | 🐛 2,845 | 🌐 C++ | 📅 2026-08-15
+* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 197,055 | 🐛 2,861 | 🌐 C++ | 📅 2026-08-16
 * Documentation: <https://www.tensorflow.org/lite/>
 * Google
 
@@ -279,4 +279,4 @@ To the extent possible under law, [Bisonai](https://bisonai.com/) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

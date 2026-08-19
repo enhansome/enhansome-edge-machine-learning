@@ -82,7 +82,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Caffe 2
 
-* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 102,477 | 🐛 17,128 | 🌐 Python | 📅 2026-08-19
+* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 102,479 | 🐛 17,138 | 🌐 Python | 📅 2026-08-19
 * Documentation: <https://caffe2.ai/>
 * Facebook
 
@@ -150,7 +150,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### TensorFlow Lite
 
-* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 197,058 | 🐛 3,032 | 🌐 C++ | 📅 2026-08-19
+* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 197,061 | 🐛 3,042 | 🌐 C++ | 📅 2026-08-19
 * Documentation: <https://www.tensorflow.org/lite/>
 * Google
 

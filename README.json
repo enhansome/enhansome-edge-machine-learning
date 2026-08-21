@@ -161,7 +161,7 @@
             "last_commit": "2023-03-14T18:09:02Z",
             "owner": "csarron",
             "repo": "awesome-emdl",
-            "stars": 769
+            "stars": 768
           },
           "title": "Awesome EMDL"
         },
@@ -200,7 +200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T10:50:44.968Z",
+    "last_updated": "2026-08-21T10:50:57.177Z",
     "original_repository": "Bisonai/awesome-edge-machine-learning",
     "original_repository_id": 194094333,
     "original_repository_sha": "e682492d534cf1dc31ff238393b5e4407c095512",

@@ -82,7 +82,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Caffe 2
 
-* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 102,508 | 🐛 17,224 | 🌐 Python | 📅 2026-08-21
+* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 102,532 | 🐛 17,247 | 🌐 Python | 📅 2026-08-22
 * Documentation: <https://caffe2.ai/>
 * Facebook
 
@@ -115,7 +115,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### MNN
 
-* Source code: <https://github.com/alibaba/MNN> ⭐ 15,941 | 🐛 23 | 🌐 C++ | 📅 2026-08-20
+* Source code: <https://github.com/alibaba/MNN> ⭐ 15,944 | 🐛 27 | 🌐 C++ | 📅 2026-08-22
 * Alibaba
 
 ### MXNet
@@ -125,7 +125,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### NCNN
 
-* Source code: <https://github.com/tencent/ncnn> ⭐ 23,729 | 🐛 1,230 | 🌐 C++ | 📅 2026-08-18
+* Source code: <https://github.com/tencent/ncnn> ⭐ 23,728 | 🐛 1,232 | 🌐 C++ | 📅 2026-08-18
 * Tencent
 
 ### Neural Networks API
@@ -150,7 +150,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### TensorFlow Lite
 
-* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 197,214 | 🐛 2,950 | 🌐 C++ | 📅 2026-08-21
+* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 197,311 | 🐛 2,918 | 🌐 C++ | 📅 2026-08-22
 * Documentation: <https://www.tensorflow.org/lite/>
 * Google
 
@@ -279,4 +279,4 @@ To the extent possible under law, [Bisonai](https://bisonai.com/) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._

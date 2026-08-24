@@ -4,6 +4,283 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Papers",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Applications",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194094333,
+                "language": "Python",
+                "last_commit": "2023-02-23T11:17:36Z",
+                "owner": "Bisonai",
+                "repo": "awesome-edge-machine-learning",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AutoML",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194094333,
+                "language": "Python",
+                "last_commit": "2023-02-23T11:17:36Z",
+                "owner": "Bisonai",
+                "repo": "awesome-edge-machine-learning",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Efficient Architectures",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194094333,
+                "language": "Python",
+                "last_commit": "2023-02-23T11:17:36Z",
+                "owner": "Bisonai",
+                "repo": "awesome-edge-machine-learning",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Federated Learning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194094333,
+                "language": "Python",
+                "last_commit": "2023-02-23T11:17:36Z",
+                "owner": "Bisonai",
+                "repo": "awesome-edge-machine-learning",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ML Algorithms For Edge",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194094333,
+                "language": "Python",
+                "last_commit": "2023-02-23T11:17:36Z",
+                "owner": "Bisonai",
+                "repo": "awesome-edge-machine-learning",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Network Pruning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194094333,
+                "language": "Python",
+                "last_commit": "2023-02-23T11:17:36Z",
+                "owner": "Bisonai",
+                "repo": "awesome-edge-machine-learning",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Others",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194094333,
+                "language": "Python",
+                "last_commit": "2023-02-23T11:17:36Z",
+                "owner": "Bisonai",
+                "repo": "awesome-edge-machine-learning",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quantization",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194094333,
+                "language": "Python",
+                "last_commit": "2023-02-23T11:17:36Z",
+                "owner": "Bisonai",
+                "repo": "awesome-edge-machine-learning",
+                "stars": 281
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 194094333,
+            "language": "Python",
+            "last_commit": "2023-02-23T11:17:36Z",
+            "owner": "Bisonai",
+            "repo": "awesome-edge-machine-learning",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Datasets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 194094333,
+            "language": "Python",
+            "last_commit": "2023-02-23T11:17:36Z",
+            "owner": "Bisonai",
+            "repo": "awesome-edge-machine-learning",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inference Engines",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 194094333,
+            "language": "Python",
+            "last_commit": "2023-02-23T11:17:36Z",
+            "owner": "Bisonai",
+            "repo": "awesome-edge-machine-learning",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCU and MPU Software Packages",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 194094333,
+            "language": "Python",
+            "last_commit": "2023-02-23T11:17:36Z",
+            "owner": "Bisonai",
+            "repo": "awesome-edge-machine-learning",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Chips",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 194094333,
+            "language": "Python",
+            "last_commit": "2023-02-23T11:17:36Z",
+            "owner": "Bisonai",
+            "repo": "awesome-edge-machine-learning",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Books",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 194094333,
+            "language": "Python",
+            "last_commit": "2023-02-23T11:17:36Z",
+            "owner": "Bisonai",
+            "repo": "awesome-edge-machine-learning",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Challenges",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 194094333,
+            "language": "Python",
+            "last_commit": "2023-02-23T11:17:36Z",
+            "owner": "Bisonai",
+            "repo": "awesome-edge-machine-learning",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Other Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 194094333,
+            "language": "Python",
+            "last_commit": "2023-02-23T11:17:36Z",
+            "owner": "Bisonai",
+            "repo": "awesome-edge-machine-learning",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Contribute",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 194094333,
+            "language": "Python",
+            "last_commit": "2023-02-23T11:17:36Z",
+            "owner": "Bisonai",
+            "repo": "awesome-edge-machine-learning",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LicenseBlock",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 194094333,
+            "language": "Python",
+            "last_commit": "2023-02-23T11:17:36Z",
+            "owner": "Bisonai",
+            "repo": "awesome-edge-machine-learning",
+            "stars": 281
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [],
           "description": "There is a countless number of possible edge machine learning applications. Here, we collect papers that describe specific solutions.",
           "node_type": "item",
@@ -127,6 +404,276 @@
       "title": "Papers"
     },
     {
+      "description": "List of machine learning inference engines and APIs that are optimized for execution and/or training on edge devices.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source code: https://github.com/ARM-software/ComputeLibrary",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84570214,
+                "language": "C++",
+                "last_commit": "2026-08-12T09:47:06Z",
+                "owner": "ARM-software",
+                "repo": "ComputeLibrary",
+                "stars": 3182
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Arm Compute Library"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source code: https://github.com/xmartlabs/Bender",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90192362,
+                "language": "Swift",
+                "last_commit": "2023-11-07T10:28:36Z",
+                "owner": "xmartlabs",
+                "repo": "Bender",
+                "stars": 1802
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Bender"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source code: https://github.com/pytorch/pytorch/tree/master/caffe2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65600975,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:30:18Z",
+                "owner": "pytorch",
+                "repo": "pytorch",
+                "stars": 102575
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Caffe 2"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source code: https://github.com/Microsoft/ELL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 69389961,
+                "language": "C++",
+                "last_commit": "2024-06-01T16:49:37Z",
+                "owner": "microsoft",
+                "repo": "ELL",
+                "stars": 2302
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Embedded Learning Library"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source code: https://github.com/Tencent/FeatherCNN",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131234205,
+                "language": "C++",
+                "last_commit": "2019-09-24T06:34:01Z",
+                "owner": "Tencent",
+                "repo": "FeatherCNN",
+                "stars": 1228
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Feather CNN"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source code: https://github.com/XiaoMi/mace",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138826968,
+                "language": "C++",
+                "last_commit": "2024-06-17T09:17:33Z",
+                "owner": "XiaoMi",
+                "repo": "mace",
+                "stars": 5046
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MACE"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source code: https://github.com/alibaba/MNN",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181436799,
+                "language": "C++",
+                "last_commit": "2026-08-24T08:30:11Z",
+                "owner": "alibaba",
+                "repo": "MNN",
+                "stars": 15958
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MNN"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source code: https://github.com/tencent/ncnn",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95879426,
+                "language": "C++",
+                "last_commit": "2026-08-18T08:40:18Z",
+                "owner": "Tencent",
+                "repo": "ncnn",
+                "stars": 23738
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NCNN"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source code: https://github.com/PaddlePaddle/paddle-mobile",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104208128,
+                "language": "C++",
+                "last_commit": "2026-04-27T09:16:13Z",
+                "owner": "PaddlePaddle",
+                "repo": "Paddle-Lite",
+                "stars": 7273
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Paddle Mobile"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source code: https://github.com/OAID/Tengine",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115765590,
+                "language": "C++",
+                "last_commit": "2025-03-06T07:12:55Z",
+                "owner": "OAID",
+                "repo": "Tengine",
+                "stars": 4532
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tengine"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source code: https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45717250,
+                "language": "C++",
+                "last_commit": "2026-08-24T14:22:47Z",
+                "owner": "tensorflow",
+                "repo": "tensorflow",
+                "stars": 197385
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "TensorFlow Lite"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source code: https://github.com/JDAI-CV/dabnn",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184598655,
+                "language": "C++",
+                "last_commit": "2019-11-12T01:49:55Z",
+                "owner": "JDAI-CV",
+                "repo": "dabnn",
+                "stars": 774
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "dabnn"
+        }
+      ],
+      "title": "Inference Engines"
+    },
+    {
       "description": "List of resources about AI Chips",
       "items": [
         {
@@ -200,7 +747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:56:17.954Z",
+    "last_updated": "2026-08-24T14:33:12.455Z",
     "original_repository": "Bisonai/awesome-edge-machine-learning",
     "original_repository_id": 194094333,
     "original_repository_sha": "e682492d534cf1dc31ff238393b5e4407c095512",

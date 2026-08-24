@@ -82,7 +82,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Caffe 2
 
-* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 102,553 | 🐛 17,286 | 🌐 Python | 📅 2026-08-23
+* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 102,573 | 🐛 17,289 | 🌐 Python | 📅 2026-08-24
 * Documentation: <https://caffe2.ai/>
 * Facebook
 
@@ -109,13 +109,13 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### MACE
 
-* Source code: <https://github.com/XiaoMi/mace> ⭐ 5,044 | 🐛 62 | 🌐 C++ | 📅 2024-06-17
+* Source code: <https://github.com/XiaoMi/mace> ⭐ 5,045 | 🐛 62 | 🌐 C++ | 📅 2024-06-17
 * Documentation: <https://mace.readthedocs.io/>
 * XiaoMi
 
 ### MNN
 
-* Source code: <https://github.com/alibaba/MNN> ⭐ 15,949 | 🐛 28 | 🌐 C++ | 📅 2026-08-22
+* Source code: <https://github.com/alibaba/MNN> ⭐ 15,957 | 🐛 32 | 🌐 C++ | 📅 2026-08-24
 * Alibaba
 
 ### MXNet
@@ -125,7 +125,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### NCNN
 
-* Source code: <https://github.com/tencent/ncnn> ⭐ 23,734 | 🐛 1,233 | 🌐 C++ | 📅 2026-08-18
+* Source code: <https://github.com/tencent/ncnn> ⭐ 23,737 | 🐛 1,234 | 🌐 C++ | 📅 2026-08-18
 * Tencent
 
 ### Neural Networks API
@@ -145,12 +145,12 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Tengine
 
-* Source code: <https://github.com/OAID/Tengine> ⭐ 4,530 | 🐛 252 | 🌐 C++ | 📅 2025-03-06
+* Source code: <https://github.com/OAID/Tengine> ⭐ 4,532 | 🐛 252 | 🌐 C++ | 📅 2025-03-06
 * OAID
 
 ### TensorFlow Lite
 
-* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 197,363 | 🐛 2,935 | 🌐 C++ | 📅 2026-08-23
+* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 197,380 | 🐛 2,942 | 🌐 C++ | 📅 2026-08-24
 * Documentation: <https://www.tensorflow.org/lite/>
 * Google
 
@@ -279,4 +279,4 @@ To the extent possible under law, [Bisonai](https://bisonai.com/) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

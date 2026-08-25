@@ -82,7 +82,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Caffe 2
 
-* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 102,575 | 🐛 17,305 | 🌐 Python | 📅 2026-08-24
+* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 102,581 | 🐛 17,327 | 🌐 Python | 📅 2026-08-25
 * Documentation: <https://caffe2.ai/>
 * Facebook
 
@@ -104,7 +104,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Feather CNN
 
-* Source code: <https://github.com/Tencent/FeatherCNN> ⭐ 1,228 | 🐛 20 | 🌐 C++ | 📅 2019-09-24
+* Source code: <https://github.com/Tencent/FeatherCNN> ⭐ 1,227 | 🐛 20 | 🌐 C++ | 📅 2019-09-24
 * Tencent
 
 ### MACE
@@ -115,7 +115,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### MNN
 
-* Source code: <https://github.com/alibaba/MNN> ⭐ 15,958 | 🐛 32 | 🌐 C++ | 📅 2026-08-24
+* Source code: <https://github.com/alibaba/MNN> ⭐ 15,962 | 🐛 33 | 🌐 C++ | 📅 2026-08-25
 * Alibaba
 
 ### MXNet
@@ -125,7 +125,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### NCNN
 
-* Source code: <https://github.com/tencent/ncnn> ⭐ 23,738 | 🐛 1,234 | 🌐 C++ | 📅 2026-08-18
+* Source code: <https://github.com/tencent/ncnn> ⭐ 23,740 | 🐛 1,229 | 🌐 C++ | 📅 2026-08-25
 * Tencent
 
 ### Neural Networks API
@@ -145,12 +145,12 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Tengine
 
-* Source code: <https://github.com/OAID/Tengine> ⭐ 4,532 | 🐛 252 | 🌐 C++ | 📅 2025-03-06
+* Source code: <https://github.com/OAID/Tengine> ⭐ 4,531 | 🐛 252 | 🌐 C++ | 📅 2025-03-06
 * OAID
 
 ### TensorFlow Lite
 
-* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 197,385 | 🐛 2,929 | 🌐 C++ | 📅 2026-08-24
+* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 197,613 | 🐛 2,930 | 🌐 C++ | 📅 2026-08-25
 * Documentation: <https://www.tensorflow.org/lite/>
 * Google
 
@@ -279,4 +279,4 @@ To the extent possible under law, [Bisonai](https://bisonai.com/) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

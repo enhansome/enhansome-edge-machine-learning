@@ -461,10 +461,10 @@
                 "archived": false,
                 "id": 65600975,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:30:18Z",
+                "last_commit": "2026-08-25T06:22:54Z",
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 102575
+                "stars": 102581
               }
             }
           ],
@@ -508,7 +508,7 @@
                 "last_commit": "2019-09-24T06:34:01Z",
                 "owner": "Tencent",
                 "repo": "FeatherCNN",
-                "stars": 1228
+                "stars": 1227
               }
             }
           ],
@@ -549,10 +549,10 @@
                 "archived": false,
                 "id": 181436799,
                 "language": "C++",
-                "last_commit": "2026-08-24T08:30:11Z",
+                "last_commit": "2026-08-25T03:07:57Z",
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 15958
+                "stars": 15962
               }
             }
           ],
@@ -571,10 +571,10 @@
                 "archived": false,
                 "id": 95879426,
                 "language": "C++",
-                "last_commit": "2026-08-18T08:40:18Z",
+                "last_commit": "2026-08-25T03:21:15Z",
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23738
+                "stars": 23740
               }
             }
           ],
@@ -618,7 +618,7 @@
                 "last_commit": "2025-03-06T07:12:55Z",
                 "owner": "OAID",
                 "repo": "Tengine",
-                "stars": 4532
+                "stars": 4531
               }
             }
           ],
@@ -637,10 +637,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-24T14:22:47Z",
+                "last_commit": "2026-08-25T06:22:18Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197385
+                "stars": 197613
               }
             }
           ],
@@ -747,7 +747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:33:12.455Z",
+    "last_updated": "2026-08-25T06:25:05.139Z",
     "original_repository": "Bisonai/awesome-edge-machine-learning",
     "original_repository_id": 194094333,
     "original_repository_sha": "e682492d534cf1dc31ff238393b5e4407c095512",

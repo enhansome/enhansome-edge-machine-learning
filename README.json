@@ -461,10 +461,10 @@
                 "archived": false,
                 "id": 65600975,
                 "language": "Python",
-                "last_commit": "2026-08-25T06:22:54Z",
+                "last_commit": "2026-08-25T10:46:21Z",
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 102581
+                "stars": 102584
               }
             }
           ],
@@ -549,10 +549,10 @@
                 "archived": false,
                 "id": 181436799,
                 "language": "C++",
-                "last_commit": "2026-08-25T03:07:57Z",
+                "last_commit": "2026-08-25T07:22:34Z",
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 15962
+                "stars": 15963
               }
             }
           ],
@@ -574,7 +574,7 @@
                 "last_commit": "2026-08-25T03:21:15Z",
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23740
+                "stars": 23739
               }
             }
           ],
@@ -637,10 +637,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-25T06:22:18Z",
+                "last_commit": "2026-08-25T10:52:03Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197613
+                "stars": 197618
               }
             }
           ],
@@ -747,7 +747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:25:05.139Z",
+    "last_updated": "2026-08-25T10:53:01.016Z",
     "original_repository": "Bisonai/awesome-edge-machine-learning",
     "original_repository_id": 194094333,
     "original_repository_sha": "e682492d534cf1dc31ff238393b5e4407c095512",

@@ -82,7 +82,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Caffe 2
 
-* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 102,581 | 🐛 17,327 | 🌐 Python | 📅 2026-08-25
+* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 102,584 | 🐛 17,333 | 🌐 Python | 📅 2026-08-25
 * Documentation: <https://caffe2.ai/>
 * Facebook
 
@@ -115,7 +115,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### MNN
 
-* Source code: <https://github.com/alibaba/MNN> ⭐ 15,962 | 🐛 33 | 🌐 C++ | 📅 2026-08-25
+* Source code: <https://github.com/alibaba/MNN> ⭐ 15,963 | 🐛 33 | 🌐 C++ | 📅 2026-08-25
 * Alibaba
 
 ### MXNet
@@ -125,7 +125,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### NCNN
 
-* Source code: <https://github.com/tencent/ncnn> ⭐ 23,740 | 🐛 1,229 | 🌐 C++ | 📅 2026-08-25
+* Source code: <https://github.com/tencent/ncnn> ⭐ 23,739 | 🐛 1,229 | 🌐 C++ | 📅 2026-08-25
 * Tencent
 
 ### Neural Networks API
@@ -135,7 +135,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Paddle Mobile
 
-* Source code: <https://github.com/PaddlePaddle/paddle-mobile> ⭐ 7,273 | 🐛 51 | 🌐 C++ | 📅 2026-04-27
+* Source code: <https://github.com/PaddlePaddle/paddle-mobile> ⭐ 7,273 | 🐛 49 | 🌐 C++ | 📅 2026-04-27
 * Baidu
 
 ### Qualcomm Neural Processing SDK for AI
@@ -150,7 +150,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### TensorFlow Lite
 
-* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 197,613 | 🐛 2,930 | 🌐 C++ | 📅 2026-08-25
+* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 197,618 | 🐛 2,938 | 🌐 C++ | 📅 2026-08-25
 * Documentation: <https://www.tensorflow.org/lite/>
 * Google
 

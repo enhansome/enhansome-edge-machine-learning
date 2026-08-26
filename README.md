@@ -82,7 +82,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Caffe 2
 
-* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 102,584 | 🐛 17,333 | 🌐 Python | 📅 2026-08-25
+* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 102,601 | 🐛 17,385 | 🌐 Python | 📅 2026-08-26
 * Documentation: <https://caffe2.ai/>
 * Facebook
 
@@ -115,7 +115,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### MNN
 
-* Source code: <https://github.com/alibaba/MNN> ⭐ 15,963 | 🐛 33 | 🌐 C++ | 📅 2026-08-25
+* Source code: <https://github.com/alibaba/MNN> ⭐ 15,969 | 🐛 34 | 🌐 C++ | 📅 2026-08-25
 * Alibaba
 
 ### MXNet
@@ -125,7 +125,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### NCNN
 
-* Source code: <https://github.com/tencent/ncnn> ⭐ 23,739 | 🐛 1,229 | 🌐 C++ | 📅 2026-08-25
+* Source code: <https://github.com/tencent/ncnn> ⭐ 23,750 | 🐛 1,231 | 🌐 C++ | 📅 2026-08-25
 * Tencent
 
 ### Neural Networks API
@@ -150,13 +150,13 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### TensorFlow Lite
 
-* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 197,618 | 🐛 2,938 | 🌐 C++ | 📅 2026-08-25
+* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 197,630 | 🐛 2,949 | 🌐 C++ | 📅 2026-08-26
 * Documentation: <https://www.tensorflow.org/lite/>
 * Google
 
 ### dabnn
 
-* Source code: <https://github.com/JDAI-CV/dabnn> ⭐ 774 | 🐛 17 | 🌐 C++ | 📅 2019-11-12
+* Source code: <https://github.com/JDAI-CV/dabnn> ⭐ 773 | 🐛 17 | 🌐 C++ | 📅 2019-11-12
 * JDAI Computer Vision
 
 ## MCU and MPU Software Packages
@@ -251,7 +251,7 @@ Competition with focus on the best vision solutions that can simultaneously achi
 
 Embedded and mobile deep learning research resources
 
-### [Awesome Pruning](https://github.com/he-y/Awesome-Pruning) ⭐ 2,498 | 🐛 16 | 📅 2024-04-04
+### [Awesome Pruning](https://github.com/he-y/Awesome-Pruning) ⭐ 2,497 | 🐛 16 | 📅 2024-04-04
 
 A curated list of neural network pruning resources
 
@@ -279,4 +279,4 @@ To the extent possible under law, [Bisonai](https://bisonai.com/) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

@@ -420,7 +420,7 @@
                 "last_commit": "2026-08-12T09:47:06Z",
                 "owner": "ARM-software",
                 "repo": "ComputeLibrary",
-                "stars": 3182
+                "stars": 3183
               }
             }
           ],
@@ -461,10 +461,10 @@
                 "archived": false,
                 "id": 65600975,
                 "language": "Python",
-                "last_commit": "2026-08-26T10:43:34Z",
+                "last_commit": "2026-08-27T11:27:54Z",
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 102601
+                "stars": 102613
               }
             }
           ],
@@ -552,7 +552,7 @@
                 "last_commit": "2026-08-25T07:22:34Z",
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 15969
+                "stars": 15975
               }
             }
           ],
@@ -574,7 +574,7 @@
                 "last_commit": "2026-08-25T03:21:15Z",
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23750
+                "stars": 23755
               }
             }
           ],
@@ -637,10 +637,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-26T10:48:56Z",
+                "last_commit": "2026-08-27T11:28:36Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197630
+                "stars": 197719
               }
             }
           ],
@@ -747,9 +747,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:53:53.168Z",
-    "original_repository": "Bisonai/awesome-edge-machine-learning",
-    "original_repository_id": 194094333,
+    "last_updated": "2026-08-27T11:36:36.779Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 194094333,
+      "language": "Python",
+      "last_commit": "2023-02-23T11:17:36Z",
+      "owner": "Bisonai",
+      "repo": "awesome-edge-machine-learning",
+      "stars": 281
+    },
     "original_repository_sha": "e682492d534cf1dc31ff238393b5e4407c095512",
     "enhanced_repository": "enhansome/enhansome-edge-machine-learning",
     "enhanced_repository_description": null,

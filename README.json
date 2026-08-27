@@ -417,7 +417,7 @@
                 "archived": false,
                 "id": 84570214,
                 "language": "C++",
-                "last_commit": "2026-08-12T09:47:06Z",
+                "last_commit": "2026-08-27T13:32:39Z",
                 "owner": "ARM-software",
                 "repo": "ComputeLibrary",
                 "stars": 3183
@@ -461,10 +461,10 @@
                 "archived": false,
                 "id": 65600975,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:27:54Z",
+                "last_commit": "2026-08-27T20:31:50Z",
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 102613
+                "stars": 102626
               }
             }
           ],
@@ -552,7 +552,7 @@
                 "last_commit": "2026-08-25T07:22:34Z",
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 15975
+                "stars": 15978
               }
             }
           ],
@@ -574,7 +574,7 @@
                 "last_commit": "2026-08-25T03:21:15Z",
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23755
+                "stars": 23756
               }
             }
           ],
@@ -637,10 +637,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:28:36Z",
+                "last_commit": "2026-08-27T20:30:12Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197719
+                "stars": 197738
               }
             }
           ],
@@ -687,7 +687,7 @@
             "last_commit": "2026-07-16T04:37:00Z",
             "owner": "basicmi",
             "repo": "AI-Chip",
-            "stars": 1714
+            "stars": 1715
           },
           "title": "AI Chip (ICs and IPs)"
         }
@@ -747,7 +747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:36:36.779Z",
+    "last_updated": "2026-08-27T20:34:36.987Z",
     "original_repository_info": {
       "archived": false,
       "id": 194094333,

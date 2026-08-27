@@ -71,7 +71,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Arm Compute Library
 
-* Source code: <https://github.com/ARM-software/ComputeLibrary> ⭐ 3,183 | 🐛 4 | 🌐 C++ | 📅 2026-08-12
+* Source code: <https://github.com/ARM-software/ComputeLibrary> ⭐ 3,183 | 🐛 3 | 🌐 C++ | 📅 2026-08-27
 * Arm
 
 ### Bender
@@ -82,7 +82,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Caffe 2
 
-* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 102,613 | 🐛 17,375 | 🌐 Python | 📅 2026-08-27
+* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 102,626 | 🐛 17,378 | 🌐 Python | 📅 2026-08-27
 * Documentation: <https://caffe2.ai/>
 * Facebook
 
@@ -115,7 +115,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### MNN
 
-* Source code: <https://github.com/alibaba/MNN> ⭐ 15,975 | 🐛 40 | 🌐 C++ | 📅 2026-08-25
+* Source code: <https://github.com/alibaba/MNN> ⭐ 15,978 | 🐛 40 | 🌐 C++ | 📅 2026-08-25
 * Alibaba
 
 ### MXNet
@@ -125,7 +125,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### NCNN
 
-* Source code: <https://github.com/tencent/ncnn> ⭐ 23,755 | 🐛 1,231 | 🌐 C++ | 📅 2026-08-25
+* Source code: <https://github.com/tencent/ncnn> ⭐ 23,756 | 🐛 1,231 | 🌐 C++ | 📅 2026-08-25
 * Tencent
 
 ### Neural Networks API
@@ -150,7 +150,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### TensorFlow Lite
 
-* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 197,719 | 🐛 2,942 | 🌐 C++ | 📅 2026-08-27
+* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 197,738 | 🐛 2,930 | 🌐 C++ | 📅 2026-08-27
 * Documentation: <https://www.tensorflow.org/lite/>
 * Google
 
@@ -207,7 +207,7 @@ The NXP® eIQ™ machine learning software development environment enables the u
 
 List of resources about AI Chips
 
-### [AI Chip (ICs and IPs)](https://github.com/basicmi/AI-Chip) ⭐ 1,714 | 🐛 25 | 🌐 PHP | 📅 2026-07-16
+### [AI Chip (ICs and IPs)](https://github.com/basicmi/AI-Chip) ⭐ 1,715 | 🐛 25 | 🌐 PHP | 📅 2026-07-16
 
 A list of ICs and IPs for AI, Machine Learning and Deep Learning
 

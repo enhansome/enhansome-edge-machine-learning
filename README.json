@@ -21,7 +21,8 @@
                 "owner": "Bisonai",
                 "repo": "awesome-edge-machine-learning",
                 "stars": 281
-              }
+              },
+              "first_seen": "2026-08-28T21:11:21.939Z"
             },
             {
               "node_type": "item",
@@ -36,7 +37,8 @@
                 "owner": "Bisonai",
                 "repo": "awesome-edge-machine-learning",
                 "stars": 281
-              }
+              },
+              "first_seen": "2026-08-28T21:11:21.939Z"
             },
             {
               "node_type": "item",
@@ -51,7 +53,8 @@
                 "owner": "Bisonai",
                 "repo": "awesome-edge-machine-learning",
                 "stars": 281
-              }
+              },
+              "first_seen": "2026-08-28T21:11:21.939Z"
             },
             {
               "node_type": "item",
@@ -66,7 +69,8 @@
                 "owner": "Bisonai",
                 "repo": "awesome-edge-machine-learning",
                 "stars": 281
-              }
+              },
+              "first_seen": "2026-08-28T21:11:21.939Z"
             },
             {
               "node_type": "item",
@@ -81,7 +85,8 @@
                 "owner": "Bisonai",
                 "repo": "awesome-edge-machine-learning",
                 "stars": 281
-              }
+              },
+              "first_seen": "2026-08-28T21:11:21.939Z"
             },
             {
               "node_type": "item",
@@ -96,7 +101,8 @@
                 "owner": "Bisonai",
                 "repo": "awesome-edge-machine-learning",
                 "stars": 281
-              }
+              },
+              "first_seen": "2026-08-28T21:11:21.939Z"
             },
             {
               "node_type": "item",
@@ -111,7 +117,8 @@
                 "owner": "Bisonai",
                 "repo": "awesome-edge-machine-learning",
                 "stars": 281
-              }
+              },
+              "first_seen": "2026-08-28T21:11:21.939Z"
             },
             {
               "node_type": "item",
@@ -126,7 +133,8 @@
                 "owner": "Bisonai",
                 "repo": "awesome-edge-machine-learning",
                 "stars": 281
-              }
+              },
+              "first_seen": "2026-08-28T21:11:21.939Z"
             }
           ],
           "repo_info": {
@@ -137,7 +145,8 @@
             "owner": "Bisonai",
             "repo": "awesome-edge-machine-learning",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-28T21:11:21.939Z"
         },
         {
           "node_type": "item",
@@ -152,7 +161,8 @@
             "owner": "Bisonai",
             "repo": "awesome-edge-machine-learning",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-28T21:11:21.939Z"
         },
         {
           "node_type": "item",
@@ -167,7 +177,8 @@
             "owner": "Bisonai",
             "repo": "awesome-edge-machine-learning",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-28T21:11:21.939Z"
         },
         {
           "node_type": "item",
@@ -182,7 +193,8 @@
             "owner": "Bisonai",
             "repo": "awesome-edge-machine-learning",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-28T21:11:21.939Z"
         },
         {
           "node_type": "item",
@@ -197,7 +209,8 @@
             "owner": "Bisonai",
             "repo": "awesome-edge-machine-learning",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-28T21:11:21.939Z"
         },
         {
           "node_type": "item",
@@ -212,7 +225,8 @@
             "owner": "Bisonai",
             "repo": "awesome-edge-machine-learning",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-28T21:11:21.939Z"
         },
         {
           "node_type": "item",
@@ -227,7 +241,8 @@
             "owner": "Bisonai",
             "repo": "awesome-edge-machine-learning",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-28T21:11:21.939Z"
         },
         {
           "node_type": "item",
@@ -242,7 +257,8 @@
             "owner": "Bisonai",
             "repo": "awesome-edge-machine-learning",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-28T21:11:21.939Z"
         },
         {
           "node_type": "item",
@@ -257,7 +273,8 @@
             "owner": "Bisonai",
             "repo": "awesome-edge-machine-learning",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-28T21:11:21.939Z"
         },
         {
           "node_type": "item",
@@ -272,7 +289,8 @@
             "owner": "Bisonai",
             "repo": "awesome-edge-machine-learning",
             "stars": 281
-          }
+          },
+          "first_seen": "2026-08-28T21:11:21.939Z"
         }
       ],
       "title": "Overview"
@@ -293,7 +311,8 @@
             "repo": "awesome-edge-machine-learning",
             "stars": 281
           },
-          "title": "Applications"
+          "title": "Applications",
+          "first_seen": "2026-08-28T21:11:21.939Z"
         },
         {
           "children": [],
@@ -308,7 +327,8 @@
             "repo": "awesome-edge-machine-learning",
             "stars": 281
           },
-          "title": "AutoML"
+          "title": "AutoML",
+          "first_seen": "2026-08-28T21:11:21.939Z"
         },
         {
           "children": [],
@@ -323,7 +343,8 @@
             "repo": "awesome-edge-machine-learning",
             "stars": 281
           },
-          "title": "Efficient Architectures"
+          "title": "Efficient Architectures",
+          "first_seen": "2026-08-28T21:11:21.939Z"
         },
         {
           "children": [],
@@ -338,7 +359,8 @@
             "repo": "awesome-edge-machine-learning",
             "stars": 281
           },
-          "title": "Federated Learning"
+          "title": "Federated Learning",
+          "first_seen": "2026-08-28T21:11:21.939Z"
         },
         {
           "children": [],
@@ -353,7 +375,8 @@
             "repo": "awesome-edge-machine-learning",
             "stars": 281
           },
-          "title": "ML Algorithms For Edge"
+          "title": "ML Algorithms For Edge",
+          "first_seen": "2026-08-28T21:11:21.939Z"
         },
         {
           "children": [],
@@ -368,7 +391,8 @@
             "repo": "awesome-edge-machine-learning",
             "stars": 281
           },
-          "title": "Network Pruning"
+          "title": "Network Pruning",
+          "first_seen": "2026-08-28T21:11:21.939Z"
         },
         {
           "children": [],
@@ -383,7 +407,8 @@
             "repo": "awesome-edge-machine-learning",
             "stars": 281
           },
-          "title": "Others"
+          "title": "Others",
+          "first_seen": "2026-08-28T21:11:21.939Z"
         },
         {
           "children": [],
@@ -398,7 +423,8 @@
             "repo": "awesome-edge-machine-learning",
             "stars": 281
           },
-          "title": "Quantization"
+          "title": "Quantization",
+          "first_seen": "2026-08-28T21:11:21.939Z"
         }
       ],
       "title": "Papers"
@@ -420,8 +446,9 @@
                 "last_commit": "2026-08-27T13:32:39Z",
                 "owner": "ARM-software",
                 "repo": "ComputeLibrary",
-                "stars": 3183
-              }
+                "stars": 3185
+              },
+              "first_seen": "2026-08-28T21:11:21.939Z"
             }
           ],
           "description": null,
@@ -443,7 +470,8 @@
                 "owner": "xmartlabs",
                 "repo": "Bender",
                 "stars": 1802
-              }
+              },
+              "first_seen": "2026-08-28T21:11:21.939Z"
             }
           ],
           "description": null,
@@ -461,11 +489,12 @@
                 "archived": false,
                 "id": 65600975,
                 "language": "Python",
-                "last_commit": "2026-08-27T20:31:50Z",
+                "last_commit": "2026-08-28T21:10:58Z",
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 102626
-              }
+                "stars": 102652
+              },
+              "first_seen": "2026-08-28T21:11:21.939Z"
             }
           ],
           "description": null,
@@ -487,7 +516,8 @@
                 "owner": "microsoft",
                 "repo": "ELL",
                 "stars": 2302
-              }
+              },
+              "first_seen": "2026-08-28T21:11:21.939Z"
             }
           ],
           "description": null,
@@ -509,7 +539,8 @@
                 "owner": "Tencent",
                 "repo": "FeatherCNN",
                 "stars": 1227
-              }
+              },
+              "first_seen": "2026-08-28T21:11:21.939Z"
             }
           ],
           "description": null,
@@ -531,7 +562,8 @@
                 "owner": "XiaoMi",
                 "repo": "mace",
                 "stars": 5046
-              }
+              },
+              "first_seen": "2026-08-28T21:11:21.939Z"
             }
           ],
           "description": null,
@@ -549,11 +581,12 @@
                 "archived": false,
                 "id": 181436799,
                 "language": "C++",
-                "last_commit": "2026-08-25T07:22:34Z",
+                "last_commit": "2026-08-28T03:46:12Z",
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 15978
-              }
+                "stars": 15986
+              },
+              "first_seen": "2026-08-28T21:11:21.939Z"
             }
           ],
           "description": null,
@@ -571,11 +604,12 @@
                 "archived": false,
                 "id": 95879426,
                 "language": "C++",
-                "last_commit": "2026-08-25T03:21:15Z",
+                "last_commit": "2026-08-28T12:35:36Z",
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23756
-              }
+                "stars": 23762
+              },
+              "first_seen": "2026-08-28T21:11:21.939Z"
             }
           ],
           "description": null,
@@ -597,7 +631,8 @@
                 "owner": "PaddlePaddle",
                 "repo": "Paddle-Lite",
                 "stars": 7273
-              }
+              },
+              "first_seen": "2026-08-28T21:11:21.939Z"
             }
           ],
           "description": null,
@@ -618,8 +653,9 @@
                 "last_commit": "2025-03-06T07:12:55Z",
                 "owner": "OAID",
                 "repo": "Tengine",
-                "stars": 4531
-              }
+                "stars": 4532
+              },
+              "first_seen": "2026-08-28T21:11:21.939Z"
             }
           ],
           "description": null,
@@ -637,11 +673,12 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-27T20:30:12Z",
+                "last_commit": "2026-08-28T21:10:44Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197738
-              }
+                "stars": 197766
+              },
+              "first_seen": "2026-08-28T21:11:21.939Z"
             }
           ],
           "description": null,
@@ -663,7 +700,8 @@
                 "owner": "JDAI-CV",
                 "repo": "dabnn",
                 "stars": 773
-              }
+              },
+              "first_seen": "2026-08-28T21:11:21.939Z"
             }
           ],
           "description": null,
@@ -689,7 +727,8 @@
             "repo": "AI-Chip",
             "stars": 1715
           },
-          "title": "AI Chip (ICs and IPs)"
+          "title": "AI Chip (ICs and IPs)",
+          "first_seen": "2026-08-28T21:11:21.939Z"
         }
       ],
       "title": "AI Chips"
@@ -710,7 +749,8 @@
             "repo": "awesome-emdl",
             "stars": 768
           },
-          "title": "Awesome EMDL"
+          "title": "Awesome EMDL",
+          "first_seen": "2026-08-28T21:11:21.939Z"
         },
         {
           "children": [],
@@ -725,7 +765,8 @@
             "repo": "Awesome-Pruning",
             "stars": 2497
           },
-          "title": "Awesome Pruning"
+          "title": "Awesome Pruning",
+          "first_seen": "2026-08-28T21:11:21.939Z"
         },
         {
           "children": [],
@@ -740,14 +781,15 @@
             "repo": "Efficient-Deep-Learning",
             "stars": 957
           },
-          "title": "Efficient DNNs"
+          "title": "Efficient DNNs",
+          "first_seen": "2026-08-28T21:11:21.939Z"
         }
       ],
       "title": "Other Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:34:36.987Z",
+    "last_updated": "2026-08-28T21:11:21.939Z",
     "original_repository_info": {
       "archived": false,
       "id": 194094333,

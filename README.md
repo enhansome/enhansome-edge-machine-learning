@@ -82,7 +82,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Caffe 2
 
-* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 102,654 | 🐛 17,420 | 🌐 Python | 📅 2026-08-29
+* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 102,655 | 🐛 17,441 | 🌐 Python | 📅 2026-08-29
 * Documentation: <https://caffe2.ai/>
 * Facebook
 
@@ -115,7 +115,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### MNN
 
-* Source code: <https://github.com/alibaba/MNN> ⭐ 15,990 | 🐛 40 | 🌐 C++ | 📅 2026-08-28
+* Source code: <https://github.com/alibaba/MNN> ⭐ 15,991 | 🐛 41 | 🌐 C++ | 📅 2026-08-28
 * Alibaba
 
 ### MXNet
@@ -125,7 +125,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### NCNN
 
-* Source code: <https://github.com/tencent/ncnn> ⭐ 23,764 | 🐛 1,228 | 🌐 C++ | 📅 2026-08-28
+* Source code: <https://github.com/tencent/ncnn> ⭐ 23,763 | 🐛 1,229 | 🌐 C++ | 📅 2026-08-28
 * Tencent
 
 ### Neural Networks API
@@ -135,7 +135,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Paddle Mobile
 
-* Source code: <https://github.com/PaddlePaddle/paddle-mobile> ⭐ 7,273 | 🐛 49 | 🌐 C++ | 📅 2026-04-27
+* Source code: <https://github.com/PaddlePaddle/paddle-mobile> ⭐ 7,272 | 🐛 49 | 🌐 C++ | 📅 2026-04-27
 * Baidu
 
 ### Qualcomm Neural Processing SDK for AI
@@ -150,7 +150,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### TensorFlow Lite
 
-* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 197,767 | 🐛 2,961 | 🌐 C++ | 📅 2026-08-29
+* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 197,773 | 🐛 2,965 | 🌐 C++ | 📅 2026-08-29
 * Documentation: <https://www.tensorflow.org/lite/>
 * Google
 
@@ -207,7 +207,7 @@ The NXP® eIQ™ machine learning software development environment enables the u
 
 List of resources about AI Chips
 
-### [AI Chip (ICs and IPs)](https://github.com/basicmi/AI-Chip) ⭐ 1,715 | 🐛 25 | 🌐 PHP | 📅 2026-07-16
+### [AI Chip (ICs and IPs)](https://github.com/basicmi/AI-Chip) ⭐ 1,716 | 🐛 25 | 🌐 PHP | 📅 2026-07-16
 
 A list of ICs and IPs for AI, Machine Learning and Deep Learning
 
@@ -247,7 +247,7 @@ Competition with focus on the best vision solutions that can simultaneously achi
 
 ## Other Resources
 
-### [Awesome EMDL](https://github.com/EMDL/awesome-emdl) ⭐ 768 | 🐛 1 | 📅 2023-03-14
+### [Awesome EMDL](https://github.com/EMDL/awesome-emdl) ⭐ 769 | 🐛 1 | 📅 2023-03-14
 
 Embedded and mobile deep learning research resources
 

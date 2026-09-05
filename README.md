@@ -71,7 +71,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Arm Compute Library
 
-* Source code: <https://github.com/ARM-software/ComputeLibrary> ⭐ 3,187 | 🐛 3 | 🌐 C++ | 📅 2026-09-01
+* Source code: <https://github.com/ARM-software/ComputeLibrary> ⭐ 3,188 | 🐛 3 | 🌐 C++ | 📅 2026-09-01
 * Arm
 
 ### Bender
@@ -82,7 +82,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Caffe 2
 
-* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 102,755 | 🐛 17,518 | 🌐 Python | 📅 2026-09-04
+* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 102,766 | 🐛 17,530 | 🌐 Python | 📅 2026-09-05
 * Documentation: <https://caffe2.ai/>
 * Facebook
 
@@ -115,7 +115,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### MNN
 
-* Source code: <https://github.com/alibaba/MNN> ⭐ 16,020 | 🐛 47 | 🌐 C++ | 📅 2026-09-04
+* Source code: <https://github.com/alibaba/MNN> ⭐ 16,027 | 🐛 48 | 🌐 C++ | 📅 2026-09-04
 * Alibaba
 
 ### MXNet
@@ -125,7 +125,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### NCNN
 
-* Source code: <https://github.com/tencent/ncnn> ⭐ 23,783 | 🐛 1,246 | 🌐 C++ | 📅 2026-09-04
+* Source code: <https://github.com/tencent/ncnn> ⭐ 23,785 | 🐛 1,246 | 🌐 C++ | 📅 2026-09-04
 * Tencent
 
 ### Neural Networks API
@@ -150,13 +150,13 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### TensorFlow Lite
 
-* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 198,804 | 🐛 3,092 | 🌐 C++ | 📅 2026-09-04
+* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 198,842 | 🐛 3,127 | 🌐 C++ | 📅 2026-09-05
 * Documentation: <https://www.tensorflow.org/lite/>
 * Google
 
 ### dabnn
 
-* Source code: <https://github.com/JDAI-CV/dabnn> ⭐ 773 | 🐛 17 | 🌐 C++ | 📅 2019-11-12
+* Source code: <https://github.com/JDAI-CV/dabnn> ⭐ 774 | 🐛 17 | 🌐 C++ | 📅 2019-11-12
 * JDAI Computer Vision
 
 ## MCU and MPU Software Packages
@@ -279,4 +279,4 @@ To the extent possible under law, [Bisonai](https://bisonai.com/) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

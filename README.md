@@ -71,7 +71,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Arm Compute Library
 
-* Source code: <https://github.com/ARM-software/ComputeLibrary> ⭐ 3,188 | 🐛 3 | 🌐 C++ | 📅 2026-09-01
+* Source code: <https://github.com/ARM-software/ComputeLibrary> ⭐ 3,189 | 🐛 3 | 🌐 C++ | 📅 2026-09-01
 * Arm
 
 ### Bender
@@ -82,7 +82,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Caffe 2
 
-* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 102,806 | 🐛 17,580 | 🌐 Python | 📅 2026-09-06
+* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 102,844 | 🐛 17,586 | 🌐 Python | 📅 2026-09-07
 * Documentation: <https://caffe2.ai/>
 * Facebook
 
@@ -109,13 +109,13 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### MACE
 
-* Source code: <https://github.com/XiaoMi/mace> ⭐ 5,046 | 🐛 62 | 🌐 C++ | 📅 2024-06-17
+* Source code: <https://github.com/XiaoMi/mace> ⭐ 5,047 | 🐛 62 | 🌐 C++ | 📅 2024-06-17
 * Documentation: <https://mace.readthedocs.io/>
 * XiaoMi
 
 ### MNN
 
-* Source code: <https://github.com/alibaba/MNN> ⭐ 16,034 | 🐛 49 | 🌐 C++ | 📅 2026-09-04
+* Source code: <https://github.com/alibaba/MNN> ⭐ 16,039 | 🐛 49 | 🌐 C++ | 📅 2026-09-04
 * Alibaba
 
 ### MXNet
@@ -125,7 +125,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### NCNN
 
-* Source code: <https://github.com/tencent/ncnn> ⭐ 23,785 | 🐛 1,248 | 🌐 C++ | 📅 2026-09-04
+* Source code: <https://github.com/tencent/ncnn> ⭐ 23,788 | 🐛 1,243 | 🌐 C++ | 📅 2026-09-07
 * Tencent
 
 ### Neural Networks API
@@ -150,7 +150,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### TensorFlow Lite
 
-* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 198,880 | 🐛 3,087 | 🌐 C++ | 📅 2026-09-06
+* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 199,330 | 🐛 3,144 | 🌐 C++ | 📅 2026-09-07
 * Documentation: <https://www.tensorflow.org/lite/>
 * Google
 
@@ -279,4 +279,4 @@ To the extent possible under law, [Bisonai](https://bisonai.com/) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

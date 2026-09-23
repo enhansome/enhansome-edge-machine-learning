@@ -71,7 +71,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Arm Compute Library
 
-* Source code: <https://github.com/ARM-software/ComputeLibrary> ⭐ 3,192 | 🐛 9 | 🌐 C++ | 📅 2026-09-22
+* Source code: <https://github.com/ARM-software/ComputeLibrary> ⭐ 3,193 | 🐛 9 | 🌐 C++ | 📅 2026-09-22
 * Arm
 
 ### Bender
@@ -82,7 +82,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Caffe 2
 
-* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 103,171 | 🐛 17,572 | 🌐 Python | 📅 2026-09-22
+* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 103,196 | 🐛 17,564 | 🌐 Python | 📅 2026-09-23
 * Documentation: <https://caffe2.ai/>
 * Facebook
 
@@ -93,7 +93,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### CosmoEdge
 
-* Source code: <https://github.com/cosmo-wander-ai/cosmo-edge> ⭐ 1,226 | 🐛 17 | 🌐 C | 📅 2026-09-22
+* Source code: <https://github.com/cosmo-wander-ai/cosmo-edge> ⭐ 1,228 | 🐛 17 | 🌐 C | 📅 2026-09-23
 * Documentation: <https://www.cosmowander.ai/docs/>
 * CosmoEdge Contributors
 
@@ -115,13 +115,13 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### MACE
 
-* Source code: <https://github.com/XiaoMi/mace> ⭐ 5,048 | 🐛 62 | 🌐 C++ | 📅 2024-06-17
+* Source code: <https://github.com/XiaoMi/mace> ⭐ 5,049 | 🐛 62 | 🌐 C++ | 📅 2024-06-17
 * Documentation: <https://mace.readthedocs.io/>
 * XiaoMi
 
 ### MNN
 
-* Source code: <https://github.com/alibaba/MNN> ⭐ 16,129 | 🐛 34 | 🌐 C++ | 📅 2026-09-22
+* Source code: <https://github.com/alibaba/MNN> ⭐ 16,133 | 🐛 36 | 🌐 C++ | 📅 2026-09-23
 * Alibaba
 
 ### MXNet
@@ -131,7 +131,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### NCNN
 
-* Source code: <https://github.com/tencent/ncnn> ⭐ 23,861 | 🐛 1,206 | 🌐 C++ | 📅 2026-09-21
+* Source code: <https://github.com/tencent/ncnn> ⭐ 23,865 | 🐛 1,207 | 🌐 C++ | 📅 2026-09-23
 * Tencent
 
 ### Neural Networks API
@@ -156,7 +156,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### TensorFlow Lite
 
-* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 200,249 | 🐛 3,289 | 🌐 C++ | 📅 2026-09-22
+* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 200,263 | 🐛 3,367 | 🌐 C++ | 📅 2026-09-23
 * Documentation: <https://www.tensorflow.org/lite/>
 * Google
 
@@ -257,7 +257,7 @@ Competition with focus on the best vision solutions that can simultaneously achi
 
 Embedded and mobile deep learning research resources
 
-### [Awesome Pruning](https://github.com/he-y/Awesome-Pruning) ⭐ 2,497 | 🐛 16 | 📅 2024-04-04
+### [Awesome Pruning](https://github.com/he-y/Awesome-Pruning) ⭐ 2,496 | 🐛 16 | 📅 2024-04-04
 
 A curated list of neural network pruning resources
 
@@ -285,4 +285,4 @@ To the extent possible under law, [Bisonai](https://bisonai.com/) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._

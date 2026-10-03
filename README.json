@@ -1,903 +1,6 @@
 {
   "items": [
     {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Papers",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Applications",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-                "homepage": null,
-                "id": 194094333,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-15T12:45:11Z",
-                "open_issues": 4,
-                "owner": "Bisonai",
-                "repo": "awesome-edge-machine-learning",
-                "stars": 281,
-                "topics": [
-                  "auto-ml",
-                  "awesome-list",
-                  "edge",
-                  "edge-deep-learning",
-                  "edge-machine-learning",
-                  "efficient-architectures",
-                  "embedded-machine-learning",
-                  "federated-learning",
-                  "iot",
-                  "mobile-machine-learning",
-                  "pruning",
-                  "quantization"
-                ]
-              },
-              "first_seen": "2026-08-28T21:11:21.939Z"
-            },
-            {
-              "node_type": "item",
-              "title": "AutoML",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-                "homepage": null,
-                "id": 194094333,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-15T12:45:11Z",
-                "open_issues": 4,
-                "owner": "Bisonai",
-                "repo": "awesome-edge-machine-learning",
-                "stars": 281,
-                "topics": [
-                  "auto-ml",
-                  "awesome-list",
-                  "edge",
-                  "edge-deep-learning",
-                  "edge-machine-learning",
-                  "efficient-architectures",
-                  "embedded-machine-learning",
-                  "federated-learning",
-                  "iot",
-                  "mobile-machine-learning",
-                  "pruning",
-                  "quantization"
-                ]
-              },
-              "first_seen": "2026-08-28T21:11:21.939Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Efficient Architectures",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-                "homepage": null,
-                "id": 194094333,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-15T12:45:11Z",
-                "open_issues": 4,
-                "owner": "Bisonai",
-                "repo": "awesome-edge-machine-learning",
-                "stars": 281,
-                "topics": [
-                  "auto-ml",
-                  "awesome-list",
-                  "edge",
-                  "edge-deep-learning",
-                  "edge-machine-learning",
-                  "efficient-architectures",
-                  "embedded-machine-learning",
-                  "federated-learning",
-                  "iot",
-                  "mobile-machine-learning",
-                  "pruning",
-                  "quantization"
-                ]
-              },
-              "first_seen": "2026-08-28T21:11:21.939Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Federated Learning",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-                "homepage": null,
-                "id": 194094333,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-15T12:45:11Z",
-                "open_issues": 4,
-                "owner": "Bisonai",
-                "repo": "awesome-edge-machine-learning",
-                "stars": 281,
-                "topics": [
-                  "auto-ml",
-                  "awesome-list",
-                  "edge",
-                  "edge-deep-learning",
-                  "edge-machine-learning",
-                  "efficient-architectures",
-                  "embedded-machine-learning",
-                  "federated-learning",
-                  "iot",
-                  "mobile-machine-learning",
-                  "pruning",
-                  "quantization"
-                ]
-              },
-              "first_seen": "2026-08-28T21:11:21.939Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ML Algorithms For Edge",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-                "homepage": null,
-                "id": 194094333,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-15T12:45:11Z",
-                "open_issues": 4,
-                "owner": "Bisonai",
-                "repo": "awesome-edge-machine-learning",
-                "stars": 281,
-                "topics": [
-                  "auto-ml",
-                  "awesome-list",
-                  "edge",
-                  "edge-deep-learning",
-                  "edge-machine-learning",
-                  "efficient-architectures",
-                  "embedded-machine-learning",
-                  "federated-learning",
-                  "iot",
-                  "mobile-machine-learning",
-                  "pruning",
-                  "quantization"
-                ]
-              },
-              "first_seen": "2026-08-28T21:11:21.939Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Network Pruning",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-                "homepage": null,
-                "id": 194094333,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-15T12:45:11Z",
-                "open_issues": 4,
-                "owner": "Bisonai",
-                "repo": "awesome-edge-machine-learning",
-                "stars": 281,
-                "topics": [
-                  "auto-ml",
-                  "awesome-list",
-                  "edge",
-                  "edge-deep-learning",
-                  "edge-machine-learning",
-                  "efficient-architectures",
-                  "embedded-machine-learning",
-                  "federated-learning",
-                  "iot",
-                  "mobile-machine-learning",
-                  "pruning",
-                  "quantization"
-                ]
-              },
-              "first_seen": "2026-08-28T21:11:21.939Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Others",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-                "homepage": null,
-                "id": 194094333,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-15T12:45:11Z",
-                "open_issues": 4,
-                "owner": "Bisonai",
-                "repo": "awesome-edge-machine-learning",
-                "stars": 281,
-                "topics": [
-                  "auto-ml",
-                  "awesome-list",
-                  "edge",
-                  "edge-deep-learning",
-                  "edge-machine-learning",
-                  "efficient-architectures",
-                  "embedded-machine-learning",
-                  "federated-learning",
-                  "iot",
-                  "mobile-machine-learning",
-                  "pruning",
-                  "quantization"
-                ]
-              },
-              "first_seen": "2026-08-28T21:11:21.939Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Quantization",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-                "homepage": null,
-                "id": 194094333,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-15T12:45:11Z",
-                "open_issues": 4,
-                "owner": "Bisonai",
-                "repo": "awesome-edge-machine-learning",
-                "stars": 281,
-                "topics": [
-                  "auto-ml",
-                  "awesome-list",
-                  "edge",
-                  "edge-deep-learning",
-                  "edge-machine-learning",
-                  "efficient-architectures",
-                  "embedded-machine-learning",
-                  "federated-learning",
-                  "iot",
-                  "mobile-machine-learning",
-                  "pruning",
-                  "quantization"
-                ]
-              },
-              "first_seen": "2026-08-28T21:11:21.939Z"
-            }
-          ],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-            "homepage": null,
-            "id": 194094333,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-15T12:45:11Z",
-            "open_issues": 4,
-            "owner": "Bisonai",
-            "repo": "awesome-edge-machine-learning",
-            "stars": 281,
-            "topics": [
-              "auto-ml",
-              "awesome-list",
-              "edge",
-              "edge-deep-learning",
-              "edge-machine-learning",
-              "efficient-architectures",
-              "embedded-machine-learning",
-              "federated-learning",
-              "iot",
-              "mobile-machine-learning",
-              "pruning",
-              "quantization"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:21.939Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Datasets",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-            "homepage": null,
-            "id": 194094333,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-15T12:45:11Z",
-            "open_issues": 4,
-            "owner": "Bisonai",
-            "repo": "awesome-edge-machine-learning",
-            "stars": 281,
-            "topics": [
-              "auto-ml",
-              "awesome-list",
-              "edge",
-              "edge-deep-learning",
-              "edge-machine-learning",
-              "efficient-architectures",
-              "embedded-machine-learning",
-              "federated-learning",
-              "iot",
-              "mobile-machine-learning",
-              "pruning",
-              "quantization"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:21.939Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Inference Engines",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-            "homepage": null,
-            "id": 194094333,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-15T12:45:11Z",
-            "open_issues": 4,
-            "owner": "Bisonai",
-            "repo": "awesome-edge-machine-learning",
-            "stars": 281,
-            "topics": [
-              "auto-ml",
-              "awesome-list",
-              "edge",
-              "edge-deep-learning",
-              "edge-machine-learning",
-              "efficient-architectures",
-              "embedded-machine-learning",
-              "federated-learning",
-              "iot",
-              "mobile-machine-learning",
-              "pruning",
-              "quantization"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:21.939Z"
-        },
-        {
-          "node_type": "item",
-          "title": "MCU and MPU Software Packages",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-            "homepage": null,
-            "id": 194094333,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-15T12:45:11Z",
-            "open_issues": 4,
-            "owner": "Bisonai",
-            "repo": "awesome-edge-machine-learning",
-            "stars": 281,
-            "topics": [
-              "auto-ml",
-              "awesome-list",
-              "edge",
-              "edge-deep-learning",
-              "edge-machine-learning",
-              "efficient-architectures",
-              "embedded-machine-learning",
-              "federated-learning",
-              "iot",
-              "mobile-machine-learning",
-              "pruning",
-              "quantization"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:21.939Z"
-        },
-        {
-          "node_type": "item",
-          "title": "AI Chips",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-            "homepage": null,
-            "id": 194094333,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-15T12:45:11Z",
-            "open_issues": 4,
-            "owner": "Bisonai",
-            "repo": "awesome-edge-machine-learning",
-            "stars": 281,
-            "topics": [
-              "auto-ml",
-              "awesome-list",
-              "edge",
-              "edge-deep-learning",
-              "edge-machine-learning",
-              "efficient-architectures",
-              "embedded-machine-learning",
-              "federated-learning",
-              "iot",
-              "mobile-machine-learning",
-              "pruning",
-              "quantization"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:21.939Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Books",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-            "homepage": null,
-            "id": 194094333,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-15T12:45:11Z",
-            "open_issues": 4,
-            "owner": "Bisonai",
-            "repo": "awesome-edge-machine-learning",
-            "stars": 281,
-            "topics": [
-              "auto-ml",
-              "awesome-list",
-              "edge",
-              "edge-deep-learning",
-              "edge-machine-learning",
-              "efficient-architectures",
-              "embedded-machine-learning",
-              "federated-learning",
-              "iot",
-              "mobile-machine-learning",
-              "pruning",
-              "quantization"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:21.939Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Challenges",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-            "homepage": null,
-            "id": 194094333,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-15T12:45:11Z",
-            "open_issues": 4,
-            "owner": "Bisonai",
-            "repo": "awesome-edge-machine-learning",
-            "stars": 281,
-            "topics": [
-              "auto-ml",
-              "awesome-list",
-              "edge",
-              "edge-deep-learning",
-              "edge-machine-learning",
-              "efficient-architectures",
-              "embedded-machine-learning",
-              "federated-learning",
-              "iot",
-              "mobile-machine-learning",
-              "pruning",
-              "quantization"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:21.939Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Other Resources",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-            "homepage": null,
-            "id": 194094333,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-15T12:45:11Z",
-            "open_issues": 4,
-            "owner": "Bisonai",
-            "repo": "awesome-edge-machine-learning",
-            "stars": 281,
-            "topics": [
-              "auto-ml",
-              "awesome-list",
-              "edge",
-              "edge-deep-learning",
-              "edge-machine-learning",
-              "efficient-architectures",
-              "embedded-machine-learning",
-              "federated-learning",
-              "iot",
-              "mobile-machine-learning",
-              "pruning",
-              "quantization"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:21.939Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Contribute",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-            "homepage": null,
-            "id": 194094333,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-15T12:45:11Z",
-            "open_issues": 4,
-            "owner": "Bisonai",
-            "repo": "awesome-edge-machine-learning",
-            "stars": 281,
-            "topics": [
-              "auto-ml",
-              "awesome-list",
-              "edge",
-              "edge-deep-learning",
-              "edge-machine-learning",
-              "efficient-architectures",
-              "embedded-machine-learning",
-              "federated-learning",
-              "iot",
-              "mobile-machine-learning",
-              "pruning",
-              "quantization"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:21.939Z"
-        },
-        {
-          "node_type": "item",
-          "title": "LicenseBlock",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-            "homepage": null,
-            "id": 194094333,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-15T12:45:11Z",
-            "open_issues": 4,
-            "owner": "Bisonai",
-            "repo": "awesome-edge-machine-learning",
-            "stars": 281,
-            "topics": [
-              "auto-ml",
-              "awesome-list",
-              "edge",
-              "edge-deep-learning",
-              "edge-machine-learning",
-              "efficient-architectures",
-              "embedded-machine-learning",
-              "federated-learning",
-              "iot",
-              "mobile-machine-learning",
-              "pruning",
-              "quantization"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:21.939Z"
-        }
-      ],
-      "title": "Overview"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [],
-          "description": "There is a countless number of possible edge machine learning applications. Here, we collect papers that describe specific solutions.",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-            "homepage": null,
-            "id": 194094333,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-15T12:45:11Z",
-            "open_issues": 4,
-            "owner": "Bisonai",
-            "repo": "awesome-edge-machine-learning",
-            "stars": 281,
-            "topics": [
-              "auto-ml",
-              "awesome-list",
-              "edge",
-              "edge-deep-learning",
-              "edge-machine-learning",
-              "efficient-architectures",
-              "embedded-machine-learning",
-              "federated-learning",
-              "iot",
-              "mobile-machine-learning",
-              "pruning",
-              "quantization"
-            ]
-          },
-          "title": "Applications",
-          "first_seen": "2026-08-28T21:11:21.939Z"
-        },
-        {
-          "children": [],
-          "description": "Automated machine learning (AutoML) is the process of automating the end-to-end process of applying machine learning to real-world problems.Wikipedia AutoML is for example used to design new efficient neural architectures with a constraint on a computational budget (defined either as a number of FLOPS or as an inference time measured on real device) or a size of the architecture.",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-            "homepage": null,
-            "id": 194094333,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-15T12:45:11Z",
-            "open_issues": 4,
-            "owner": "Bisonai",
-            "repo": "awesome-edge-machine-learning",
-            "stars": 281,
-            "topics": [
-              "auto-ml",
-              "awesome-list",
-              "edge",
-              "edge-deep-learning",
-              "edge-machine-learning",
-              "efficient-architectures",
-              "embedded-machine-learning",
-              "federated-learning",
-              "iot",
-              "mobile-machine-learning",
-              "pruning",
-              "quantization"
-            ]
-          },
-          "title": "AutoML",
-          "first_seen": "2026-08-28T21:11:21.939Z"
-        },
-        {
-          "children": [],
-          "description": "Efficient architectures represent neural networks with small memory footprint and fast inference time when measured on edge devices.",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-            "homepage": null,
-            "id": 194094333,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-15T12:45:11Z",
-            "open_issues": 4,
-            "owner": "Bisonai",
-            "repo": "awesome-edge-machine-learning",
-            "stars": 281,
-            "topics": [
-              "auto-ml",
-              "awesome-list",
-              "edge",
-              "edge-deep-learning",
-              "edge-machine-learning",
-              "efficient-architectures",
-              "embedded-machine-learning",
-              "federated-learning",
-              "iot",
-              "mobile-machine-learning",
-              "pruning",
-              "quantization"
-            ]
-          },
-          "title": "Efficient Architectures",
-          "first_seen": "2026-08-28T21:11:21.939Z"
-        },
-        {
-          "children": [],
-          "description": "Federated Learning enables mobile phones to collaboratively learn a shared prediction model while keeping all the training data on device, decoupling the ability to do machine learning from the need to store the data in the cloud.Google AI blog: Federated Learning",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-            "homepage": null,
-            "id": 194094333,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-15T12:45:11Z",
-            "open_issues": 4,
-            "owner": "Bisonai",
-            "repo": "awesome-edge-machine-learning",
-            "stars": 281,
-            "topics": [
-              "auto-ml",
-              "awesome-list",
-              "edge",
-              "edge-deep-learning",
-              "edge-machine-learning",
-              "efficient-architectures",
-              "embedded-machine-learning",
-              "federated-learning",
-              "iot",
-              "mobile-machine-learning",
-              "pruning",
-              "quantization"
-            ]
-          },
-          "title": "Federated Learning",
-          "first_seen": "2026-08-28T21:11:21.939Z"
-        },
-        {
-          "children": [],
-          "description": "Standard machine learning algorithms are not always able to run on edge devices due to large computational requirements and space complexity. This section introduces optimized machine learning algorithms.",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-            "homepage": null,
-            "id": 194094333,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-15T12:45:11Z",
-            "open_issues": 4,
-            "owner": "Bisonai",
-            "repo": "awesome-edge-machine-learning",
-            "stars": 281,
-            "topics": [
-              "auto-ml",
-              "awesome-list",
-              "edge",
-              "edge-deep-learning",
-              "edge-machine-learning",
-              "efficient-architectures",
-              "embedded-machine-learning",
-              "federated-learning",
-              "iot",
-              "mobile-machine-learning",
-              "pruning",
-              "quantization"
-            ]
-          },
-          "title": "ML Algorithms For Edge",
-          "first_seen": "2026-08-28T21:11:21.939Z"
-        },
-        {
-          "children": [],
-          "description": "Pruning is a common method to derive a compact network – after training, some structural portion of the parameters is removed, along with its associated computations.Importance Estimation for Neural Network Pruning",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-            "homepage": null,
-            "id": 194094333,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-15T12:45:11Z",
-            "open_issues": 4,
-            "owner": "Bisonai",
-            "repo": "awesome-edge-machine-learning",
-            "stars": 281,
-            "topics": [
-              "auto-ml",
-              "awesome-list",
-              "edge",
-              "edge-deep-learning",
-              "edge-machine-learning",
-              "efficient-architectures",
-              "embedded-machine-learning",
-              "federated-learning",
-              "iot",
-              "mobile-machine-learning",
-              "pruning",
-              "quantization"
-            ]
-          },
-          "title": "Network Pruning",
-          "first_seen": "2026-08-28T21:11:21.939Z"
-        },
-        {
-          "children": [],
-          "description": "This section contains papers that are related to edge machine learning but are not part of any major group. These papers often deal with deployment issues (i.e. optimizing inference on target platform).",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-            "homepage": null,
-            "id": 194094333,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-15T12:45:11Z",
-            "open_issues": 4,
-            "owner": "Bisonai",
-            "repo": "awesome-edge-machine-learning",
-            "stars": 281,
-            "topics": [
-              "auto-ml",
-              "awesome-list",
-              "edge",
-              "edge-deep-learning",
-              "edge-machine-learning",
-              "efficient-architectures",
-              "embedded-machine-learning",
-              "federated-learning",
-              "iot",
-              "mobile-machine-learning",
-              "pruning",
-              "quantization"
-            ]
-          },
-          "title": "Others",
-          "first_seen": "2026-08-28T21:11:21.939Z"
-        },
-        {
-          "children": [],
-          "description": "Quantization is the process of reducing a precision (from 32 bit floating point into lower bit depth representations) of weights and/or activations in a neural network. The advantages of this method are reduced model size and faster model inference on hardware that support arithmetic operations in lower precision.",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
-            "homepage": null,
-            "id": 194094333,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-15T12:45:11Z",
-            "open_issues": 4,
-            "owner": "Bisonai",
-            "repo": "awesome-edge-machine-learning",
-            "stars": 281,
-            "topics": [
-              "auto-ml",
-              "awesome-list",
-              "edge",
-              "edge-deep-learning",
-              "edge-machine-learning",
-              "efficient-architectures",
-              "embedded-machine-learning",
-              "federated-learning",
-              "iot",
-              "mobile-machine-learning",
-              "pruning",
-              "quantization"
-            ]
-          },
-          "title": "Quantization",
-          "first_seen": "2026-08-28T21:11:21.939Z"
-        }
-      ],
-      "title": "Papers"
-    },
-    {
       "description": "List of machine learning inference engines and APIs that are optimized for execution and/or training on edge devices.",
       "items": [
         {
@@ -905,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Source code: https://github.com/ARM-software/ComputeLibrary",
-              "description": null,
+              "description": "ARM-software/ComputeLibrary",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -948,7 +51,7 @@
             {
               "node_type": "item",
               "title": "Source code: https://github.com/xmartlabs/Bender",
-              "description": null,
+              "description": "xmartlabs/Bender",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -988,7 +91,7 @@
             {
               "node_type": "item",
               "title": "Source code: https://github.com/pytorch/pytorch/tree/master/caffe2",
-              "description": null,
+              "description": "pytorch/pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -997,11 +100,11 @@
                 "id": 65600975,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T16:17:23Z",
-                "open_issues": 17591,
+                "last_commit": "2026-10-03T04:40:50Z",
+                "open_issues": 17580,
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 103617,
+                "stars": 103631,
                 "topics": [
                   "autograd",
                   "deep-learning",
@@ -1025,7 +128,7 @@
             {
               "node_type": "item",
               "title": "Source code: https://github.com/cosmo-wander-ai/cosmo-edge",
-              "description": null,
+              "description": "cosmo-wander-ai/cosmo-edge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1038,7 +141,7 @@
                 "open_issues": 19,
                 "owner": "cosmo-wander-ai",
                 "repo": "cosmo-edge",
-                "stars": 1247,
+                "stars": 1248,
                 "topics": [
                   "bm1688",
                   "computer-vision",
@@ -1069,7 +172,7 @@
             {
               "node_type": "item",
               "title": "Source code: https://github.com/Microsoft/ELL",
-              "description": null,
+              "description": "microsoft/ELL",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1097,7 +200,7 @@
             {
               "node_type": "item",
               "title": "Source code: https://github.com/Tencent/FeatherCNN",
-              "description": null,
+              "description": "Tencent/FeatherCNN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1132,7 +235,7 @@
             {
               "node_type": "item",
               "title": "Source code: https://github.com/XiaoMi/mace",
-              "description": null,
+              "description": "XiaoMi/mace",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1167,7 +270,7 @@
             {
               "node_type": "item",
               "title": "Source code: https://github.com/alibaba/MNN",
-              "description": null,
+              "description": "alibaba/MNN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1177,10 +280,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T03:26:53Z",
-                "open_issues": 44,
+                "open_issues": 46,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16165,
+                "stars": 16166,
                 "topics": [
                   "arm",
                   "convolution",
@@ -1207,7 +310,7 @@
             {
               "node_type": "item",
               "title": "Source code: https://github.com/tencent/ncnn",
-              "description": null,
+              "description": "Tencent/ncnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1256,7 +359,7 @@
             {
               "node_type": "item",
               "title": "Source code: https://github.com/PaddlePaddle/paddle-mobile",
-              "description": null,
+              "description": "PaddlePaddle/Paddle-Lite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1295,7 +398,7 @@
             {
               "node_type": "item",
               "title": "Source code: https://github.com/OAID/Tengine",
-              "description": null,
+              "description": "OAID/Tengine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1341,7 +444,7 @@
             {
               "node_type": "item",
               "title": "Source code: https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite",
-              "description": null,
+              "description": "tensorflow/tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1350,11 +453,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T16:04:46Z",
+                "last_commit": "2026-10-03T04:18:42Z",
                 "open_issues": 3242,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 200659,
+                "stars": 200668,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -1378,7 +481,7 @@
             {
               "node_type": "item",
               "title": "Source code: https://github.com/JDAI-CV/dabnn",
-              "description": null,
+              "description": "JDAI-CV/dabnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1532,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:17:34.972Z",
+    "last_updated": "2026-10-03T04:41:59.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",

@@ -6,56 +6,56 @@ A curated list of awesome edge machine learning resources, including research pa
 
 ## Table of Contents
 
-* [Papers](https://github.com/bisonai/awesome-edge-machine-learning#papers) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
-  * [Applications](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Applications) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
-  * [AutoML](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/AutoML) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
-  * [Efficient Architectures](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Efficient_Architectures) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
-  * [Federated Learning](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Federated_Learning) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
-  * [ML Algorithms For Edge](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/ML_Algorithms_For_Edge) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
-  * [Network Pruning](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Network_Pruning) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
-  * [Others](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Others) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
-  * [Quantization](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Quantization) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
-* [Datasets](https://github.com/bisonai/awesome-edge-machine-learning#datasets) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
-* [Inference Engines](https://github.com/bisonai/awesome-edge-machine-learning#inference-engines) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
-* [MCU and MPU Software Packages](https://github.com/bisonai/awesome-edge-machine-learning#mcu-and-mpu-software-packages) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
-* [AI Chips](https://github.com/bisonai/awesome-edge-machine-learning#ai-chips) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
-* [Books](https://github.com/bisonai/awesome-edge-machine-learning#books) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
-* [Challenges](https://github.com/bisonai/awesome-edge-machine-learning#challenges) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
-* [Other Resources](https://github.com/bisonai/awesome-edge-machine-learning#other-resources) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
-* [Contribute](https://github.com/bisonai/awesome-edge-machine-learning#contribute) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
-* [LicenseBlock](https://github.com/bisonai/awesome-edge-machine-learning#licenseblock) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
+* [Papers](https://github.com/bisonai/awesome-edge-machine-learning#papers)
+  * [Applications](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Applications)
+  * [AutoML](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/AutoML)
+  * [Efficient Architectures](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Efficient_Architectures)
+  * [Federated Learning](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Federated_Learning)
+  * [ML Algorithms For Edge](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/ML_Algorithms_For_Edge)
+  * [Network Pruning](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Network_Pruning)
+  * [Others](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Others)
+  * [Quantization](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Quantization)
+* [Datasets](https://github.com/bisonai/awesome-edge-machine-learning#datasets)
+* [Inference Engines](https://github.com/bisonai/awesome-edge-machine-learning#inference-engines)
+* [MCU and MPU Software Packages](https://github.com/bisonai/awesome-edge-machine-learning#mcu-and-mpu-software-packages)
+* [AI Chips](https://github.com/bisonai/awesome-edge-machine-learning#ai-chips)
+* [Books](https://github.com/bisonai/awesome-edge-machine-learning#books)
+* [Challenges](https://github.com/bisonai/awesome-edge-machine-learning#challenges)
+* [Other Resources](https://github.com/bisonai/awesome-edge-machine-learning#other-resources)
+* [Contribute](https://github.com/bisonai/awesome-edge-machine-learning#contribute)
+* [LicenseBlock](https://github.com/bisonai/awesome-edge-machine-learning#licenseblock)
 
 ## Papers
 
-### [Applications](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Applications) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
+### [Applications](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Applications)
 
 There is a countless number of possible edge machine learning applications. Here, we collect papers that describe specific solutions.
 
-### [AutoML](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/AutoML) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
+### [AutoML](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/AutoML)
 
 Automated machine learning (AutoML) is the process of automating the end-to-end process of applying machine learning to real-world problems.<sup><a href="https://en.wikipedia.org/wiki/Automated_machine_learning" targe="_blank">Wikipedia</a></sup> AutoML is for example used to design new efficient neural architectures with a constraint on a computational budget (defined either as a number of FLOPS or as an inference time measured on real device) or a size of the architecture.
 
-### [Efficient Architectures](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Efficient_Architectures) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
+### [Efficient Architectures](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Efficient_Architectures)
 
 Efficient architectures represent neural networks with small memory footprint and fast inference time when measured on edge devices.
 
-### [Federated Learning](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Federated_Learning) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
+### [Federated Learning](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Federated_Learning)
 
 Federated Learning enables mobile phones to collaboratively learn a shared prediction model while keeping all the training data on device, decoupling the ability to do machine learning from the need to store the data in the cloud.<sup><a href="https://ai.googleblog.com/2017/04/federated-learning-collaborative.html" target="_blank">Google AI blog: Federated Learning</a></sup>
 
-### [ML Algorithms For Edge](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/ML_Algorithms_For_Edge) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
+### [ML Algorithms For Edge](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/ML_Algorithms_For_Edge)
 
 Standard machine learning algorithms are not always able to run on edge devices due to large computational requirements and space complexity. This section introduces optimized machine learning algorithms.
 
-### [Network Pruning](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Network_Pruning) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
+### [Network Pruning](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Network_Pruning)
 
 Pruning is a common method to derive a compact network – after training, some structural portion of the parameters is removed, along with its associated computations.<sup><a href="http://jankautz.com/publications/Importance4NNPruning_CVPR19.pdf" target="_blank">Importance Estimation for Neural Network Pruning</a></sup>
 
-### [Others](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Others) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
+### [Others](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Others)
 
 This section contains papers that are related to edge machine learning but are not part of any major group. These papers often deal with deployment issues (i.e. optimizing inference on target platform).
 
-### [Quantization](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Quantization) ⭐ 281 | 🐛 4 | 🌐 Python | 📅 2026-09-15
+### [Quantization](https://github.com/bisonai/awesome-edge-machine-learning/tree/master/Papers/Quantization)
 
 Quantization is the process of reducing a precision (from 32 bit floating point into lower bit depth representations) of weights and/or activations in a neural network. The advantages of this method are reduced model size and faster model inference on hardware that support arithmetic operations in lower precision.
 
@@ -82,7 +82,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Caffe 2
 
-* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 103,617 | 🐛 17,591 | 🌐 Python | 📅 2026-10-02
+* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 103,631 | 🐛 17,580 | 🌐 Python | 📅 2026-10-03
 * Documentation: <https://caffe2.ai/>
 * Facebook
 
@@ -93,7 +93,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### CosmoEdge
 
-* Source code: <https://github.com/cosmo-wander-ai/cosmo-edge> ⭐ 1,247 | 🐛 19 | 🌐 C | 📅 2026-09-30
+* Source code: <https://github.com/cosmo-wander-ai/cosmo-edge> ⭐ 1,248 | 🐛 19 | 🌐 C | 📅 2026-09-30
 * Documentation: <https://www.cosmowander.ai/docs/>
 * CosmoEdge Contributors
 
@@ -121,7 +121,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### MNN
 
-* Source code: <https://github.com/alibaba/MNN> ⭐ 16,165 | 🐛 44 | 🌐 C++ | 📅 2026-09-30
+* Source code: <https://github.com/alibaba/MNN> ⭐ 16,166 | 🐛 46 | 🌐 C++ | 📅 2026-09-30
 * Alibaba
 
 ### MXNet
@@ -156,7 +156,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### TensorFlow Lite
 
-* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 200,659 | 🐛 3,242 | 🌐 C++ | 📅 2026-10-02
+* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 200,668 | 🐛 3,242 | 🌐 C++ | 📅 2026-10-03
 * Documentation: <https://www.tensorflow.org/lite/>
 * Google
 
@@ -285,4 +285,4 @@ To the extent possible under law, [Bisonai](https://bisonai.com/) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

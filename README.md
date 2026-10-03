@@ -82,7 +82,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Caffe 2
 
-* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 103,631 | 🐛 17,580 | 🌐 Python | 📅 2026-10-03
+* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 103,646 | 🐛 17,586 | 🌐 Python | 📅 2026-10-03
 * Documentation: <https://caffe2.ai/>
 * Facebook
 
@@ -93,7 +93,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### CosmoEdge
 
-* Source code: <https://github.com/cosmo-wander-ai/cosmo-edge> ⭐ 1,248 | 🐛 19 | 🌐 C | 📅 2026-09-30
+* Source code: <https://github.com/cosmo-wander-ai/cosmo-edge> ⭐ 1,249 | 🐛 20 | 🌐 C | 📅 2026-09-30
 * Documentation: <https://www.cosmowander.ai/docs/>
 * CosmoEdge Contributors
 
@@ -115,13 +115,13 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### MACE
 
-* Source code: <https://github.com/XiaoMi/mace> ⭐ 5,052 | 🐛 62 | 🌐 C++ | 📅 2024-06-17
+* Source code: <https://github.com/XiaoMi/mace> ⭐ 5,054 | 🐛 62 | 🌐 C++ | 📅 2024-06-17
 * Documentation: <https://mace.readthedocs.io/>
 * XiaoMi
 
 ### MNN
 
-* Source code: <https://github.com/alibaba/MNN> ⭐ 16,166 | 🐛 46 | 🌐 C++ | 📅 2026-09-30
+* Source code: <https://github.com/alibaba/MNN> ⭐ 16,169 | 🐛 50 | 🌐 C++ | 📅 2026-09-30
 * Alibaba
 
 ### MXNet
@@ -156,7 +156,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### TensorFlow Lite
 
-* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 200,668 | 🐛 3,242 | 🌐 C++ | 📅 2026-10-03
+* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 200,677 | 🐛 3,253 | 🌐 C++ | 📅 2026-10-03
 * Documentation: <https://www.tensorflow.org/lite/>
 * Google
 

@@ -50,6 +50,73 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Source code: https://github.com/scienthoon/bakeNN",
+              "description": "scienthoon/bakeNN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Static INT8 AOT compiler that turns fixed PyTorch MCU models into standalone C11",
+                "homepage": "https://github.com/scienthoon/bakeNN#readme",
+                "id": 1333857882,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-11T23:47:53Z",
+                "open_issues": 0,
+                "owner": "scienthoon",
+                "repo": "bakeNN",
+                "stars": 2,
+                "topics": [
+                  "aot-compiler",
+                  "cmsis-nn",
+                  "embedded-ml",
+                  "esp32",
+                  "int8",
+                  "microcontrollers",
+                  "pytorch",
+                  "tflite-micro"
+                ]
+              },
+              "first_seen": "2026-10-17T13:47:05.566Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Documentation: https://github.com/scienthoon/bakeNN#readme",
+              "description": "scienthoon/bakeNN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Static INT8 AOT compiler that turns fixed PyTorch MCU models into standalone C11",
+                "homepage": "https://github.com/scienthoon/bakeNN#readme",
+                "id": 1333857882,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-11T23:47:53Z",
+                "open_issues": 0,
+                "owner": "scienthoon",
+                "repo": "bakeNN",
+                "stars": 2,
+                "topics": [
+                  "aot-compiler",
+                  "cmsis-nn",
+                  "embedded-ml",
+                  "esp32",
+                  "int8",
+                  "microcontrollers",
+                  "pytorch",
+                  "tflite-micro"
+                ]
+              },
+              "first_seen": "2026-10-17T13:47:05.566Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "BakeNN"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Source code: https://github.com/xmartlabs/Bender",
               "description": "xmartlabs/Bender",
               "children": [],
@@ -100,11 +167,11 @@
                 "id": 65600975,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T14:52:55Z",
-                "open_issues": 17669,
+                "last_commit": "2026-10-17T13:46:45Z",
+                "open_issues": 17652,
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 104803,
+                "stars": 104822,
                 "topics": [
                   "autograd",
                   "deep-learning",
@@ -141,7 +208,7 @@
                 "open_issues": 21,
                 "owner": "cosmo-wander-ai",
                 "repo": "cosmo-edge",
-                "stars": 1728,
+                "stars": 1757,
                 "topics": [
                   "bm1688",
                   "computer-vision",
@@ -280,10 +347,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T07:11:57Z",
-                "open_issues": 45,
+                "open_issues": 49,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16227,
+                "stars": 16232,
                 "topics": [
                   "arm",
                   "convolution",
@@ -319,11 +386,11 @@
                 "id": 95879426,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T23:24:59Z",
-                "open_issues": 1259,
+                "last_commit": "2026-10-17T10:28:49Z",
+                "open_issues": 1257,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23963,
+                "stars": 23969,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -372,7 +439,7 @@
                 "open_issues": 48,
                 "owner": "PaddlePaddle",
                 "repo": "Paddle-Lite",
-                "stars": 7288,
+                "stars": 7289,
                 "topics": [
                   "arm",
                   "baidu",
@@ -453,11 +520,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T14:44:36Z",
-                "open_issues": 3347,
+                "last_commit": "2026-10-17T13:36:22Z",
+                "open_issues": 3368,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201064,
+                "stars": 201077,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -635,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T14:54:38.084Z",
+    "last_updated": "2026-10-17T13:47:05.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
@@ -643,8 +710,8 @@
       "id": 194094333,
       "language": "Python",
       "license": "NOASSERTION",
-      "last_commit": "2026-09-15T12:45:11Z",
-      "open_issues": 3,
+      "last_commit": "2026-10-17T09:20:35Z",
+      "open_issues": 0,
       "owner": "Bisonai",
       "repo": "awesome-edge-machine-learning",
       "stars": 281,
@@ -663,7 +730,7 @@
         "quantization"
       ]
     },
-    "original_repository_sha": "d54ab9716610fcd6fd7ab8834eb031861ea2f1be",
+    "original_repository_sha": "a9a466a14f6ea4803fcecfde6c5bdd3a5d2cf959",
     "enhanced_repository": "enhansome/enhansome-edge-machine-learning",
     "enhanced_repository_description": null,
     "title": "Awesome Edge Machine Learning with stars"

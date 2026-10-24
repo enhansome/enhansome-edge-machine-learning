@@ -71,7 +71,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Arm Compute Library
 
-* Source code: <https://github.com/ARM-software/ComputeLibrary> ⭐ 3,198 | 🐛 7 | 🌐 C++ | 📅 2026-10-06
+* Source code: <https://github.com/ARM-software/ComputeLibrary> ⭐ 3,197 | 🐛 7 | 🌐 C++ | 📅 2026-10-06
 * Arm
 
 ### BakeNN
@@ -88,7 +88,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Caffe 2
 
-* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 105,000 | 🐛 17,747 | 🌐 Python | 📅 2026-10-23
+* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 105,034 | 🐛 17,778 | 🌐 Python | 📅 2026-10-24
 * Documentation: <https://caffe2.ai/>
 * Facebook
 
@@ -99,7 +99,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### CosmoEdge
 
-* Source code: <https://github.com/cosmo-wander-ai/cosmo-edge> ⭐ 1,908 | 🐛 15 | 🌐 C | 📅 2026-10-23
+* Source code: <https://github.com/cosmo-wander-ai/cosmo-edge> ⭐ 1,947 | 🐛 15 | 🌐 C | 📅 2026-10-23
 * Documentation: <https://www.cosmowander.ai/docs/>
 * CosmoEdge Contributors
 
@@ -127,7 +127,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### MNN
 
-* Source code: <https://github.com/alibaba/MNN> ⭐ 16,276 | 🐛 65 | 🌐 C++ | 📅 2026-10-23
+* Source code: <https://github.com/alibaba/MNN> ⭐ 16,275 | 🐛 67 | 🌐 C++ | 📅 2026-10-23
 * Alibaba
 
 ### MXNet
@@ -137,7 +137,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### NCNN
 
-* Source code: <https://github.com/tencent/ncnn> ⭐ 23,994 | 🐛 1,271 | 🌐 C++ | 📅 2026-10-23
+* Source code: <https://github.com/tencent/ncnn> ⭐ 23,993 | 🐛 1,273 | 🌐 C++ | 📅 2026-10-23
 * Tencent
 
 ### Neural Networks API
@@ -147,7 +147,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Paddle Mobile
 
-* Source code: <https://github.com/PaddlePaddle/paddle-mobile> ⭐ 7,289 | 🐛 48 | 🌐 C++ | 📅 2026-04-27
+* Source code: <https://github.com/PaddlePaddle/paddle-mobile> ⭐ 7,287 | 🐛 48 | 🌐 C++ | 📅 2026-04-27
 * Baidu
 
 ### Qualcomm Neural Processing SDK for AI
@@ -157,12 +157,12 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Tengine
 
-* Source code: <https://github.com/OAID/Tengine> ⭐ 4,534 | 🐛 253 | 🌐 C++ | 📅 2025-03-06
+* Source code: <https://github.com/OAID/Tengine> ⭐ 4,533 | 🐛 253 | 🌐 C++ | 📅 2025-03-06
 * OAID
 
 ### TensorFlow Lite
 
-* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 201,195 | 🐛 3,395 | 🌐 C++ | 📅 2026-10-23
+* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 201,217 | 🐛 3,384 | 🌐 C++ | 📅 2026-10-24
 * Documentation: <https://www.tensorflow.org/lite/>
 * Google
 
@@ -291,4 +291,4 @@ To the extent possible under law, [Bisonai](https://bisonai.com/) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._

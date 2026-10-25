@@ -167,11 +167,11 @@
                 "id": 65600975,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T13:50:47Z",
-                "open_issues": 17778,
+                "last_commit": "2026-10-25T14:21:16Z",
+                "open_issues": 17777,
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 105034,
+                "stars": 105059,
                 "topics": [
                   "autograd",
                   "deep-learning",
@@ -208,7 +208,7 @@
                 "open_issues": 15,
                 "owner": "cosmo-wander-ai",
                 "repo": "cosmo-edge",
-                "stars": 1947,
+                "stars": 1985,
                 "topics": [
                   "bm1688",
                   "computer-vision",
@@ -315,7 +315,7 @@
                 "open_issues": 62,
                 "owner": "XiaoMi",
                 "repo": "mace",
-                "stars": 5053,
+                "stars": 5054,
                 "topics": [
                   "deep-learning",
                   "hvx",
@@ -350,7 +350,7 @@
                 "open_issues": 67,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16275,
+                "stars": 16276,
                 "topics": [
                   "arm",
                   "convolution",
@@ -386,11 +386,11 @@
                 "id": 95879426,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T03:41:16Z",
-                "open_issues": 1273,
+                "last_commit": "2026-10-25T02:50:07Z",
+                "open_issues": 1276,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23993,
+                "stars": 23997,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -478,7 +478,7 @@
                 "open_issues": 253,
                 "owner": "OAID",
                 "repo": "Tengine",
-                "stars": 4533,
+                "stars": 4534,
                 "topics": [
                   "acl",
                   "arm",
@@ -520,11 +520,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T10:09:15Z",
-                "open_issues": 3384,
+                "last_commit": "2026-10-25T14:09:17Z",
+                "open_issues": 3402,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201217,
+                "stars": 201236,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -702,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T14:02:07.549Z",
+    "last_updated": "2026-10-25T14:25:51.171Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",

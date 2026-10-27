@@ -71,7 +71,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Arm Compute Library
 
-* Source code: <https://github.com/ARM-software/ComputeLibrary> ⭐ 3,198 | 🐛 8 | 🌐 C++ | 📅 2026-10-06
+* Source code: <https://github.com/ARM-software/ComputeLibrary> ⭐ 3,199 | 🐛 6 | 🌐 C++ | 📅 2026-10-26
 * Arm
 
 ### BakeNN
@@ -88,7 +88,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Caffe 2
 
-* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 105,091 | 🐛 17,807 | 🌐 Python | 📅 2026-10-26
+* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 105,120 | 🐛 17,799 | 🌐 Python | 📅 2026-10-27
 * Documentation: <https://caffe2.ai/>
 * Facebook
 
@@ -99,7 +99,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### CosmoEdge
 
-* Source code: <https://github.com/cosmo-wander-ai/cosmo-edge> ⭐ 2,029 | 🐛 15 | 🌐 C | 📅 2026-10-23
+* Source code: <https://github.com/cosmo-wander-ai/cosmo-edge> ⭐ 2,060 | 🐛 15 | 🌐 C | 📅 2026-10-27
 * Documentation: <https://www.cosmowander.ai/docs/>
 * CosmoEdge Contributors
 
@@ -116,7 +116,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Feather CNN
 
-* Source code: <https://github.com/Tencent/FeatherCNN> ⭐ 1,229 | 🐛 20 | 🌐 C++ | 📅 2019-09-24
+* Source code: <https://github.com/Tencent/FeatherCNN> ⭐ 1,230 | 🐛 20 | 🌐 C++ | 📅 2019-09-24
 * Tencent
 
 ### MACE
@@ -127,7 +127,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### MNN
 
-* Source code: <https://github.com/alibaba/MNN> ⭐ 16,284 | 🐛 72 | 🌐 C++ | 📅 2026-10-26
+* Source code: <https://github.com/alibaba/MNN> ⭐ 16,296 | 🐛 76 | 🌐 C++ | 📅 2026-10-27
 * Alibaba
 
 ### MXNet
@@ -137,7 +137,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### NCNN
 
-* Source code: <https://github.com/tencent/ncnn> ⭐ 24,002 | 🐛 1,282 | 🌐 C++ | 📅 2026-10-26
+* Source code: <https://github.com/tencent/ncnn> ⭐ 24,004 | 🐛 1,290 | 🌐 C++ | 📅 2026-10-26
 * Tencent
 
 ### Neural Networks API
@@ -162,7 +162,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### TensorFlow Lite
 
-* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 201,269 | 🐛 3,406 | 🌐 C++ | 📅 2026-10-26
+* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 201,296 | 🐛 3,420 | 🌐 C++ | 📅 2026-10-27
 * Documentation: <https://www.tensorflow.org/lite/>
 * Google
 
@@ -263,7 +263,7 @@ Competition with focus on the best vision solutions that can simultaneously achi
 
 Embedded and mobile deep learning research resources
 
-### [Awesome Pruning](https://github.com/he-y/Awesome-Pruning) ⭐ 2,496 | 🐛 16 | 📅 2024-04-04
+### [Awesome Pruning](https://github.com/he-y/Awesome-Pruning) ⭐ 2,495 | 🐛 16 | 📅 2024-04-04
 
 A curated list of neural network pruning resources
 
@@ -291,4 +291,4 @@ To the extent possible under law, [Bisonai](https://bisonai.com/) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._

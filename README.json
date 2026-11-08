@@ -167,11 +167,11 @@
                 "id": 65600975,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-07T15:26:27Z",
-                "open_issues": 18099,
+                "last_commit": "2026-11-08T16:31:58Z",
+                "open_issues": 18129,
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 105233,
+                "stars": 105253,
                 "topics": [
                   "autograd",
                   "deep-learning",
@@ -208,7 +208,7 @@
                 "open_issues": 12,
                 "owner": "cosmo-wander-ai",
                 "repo": "cosmo-edge",
-                "stars": 2087,
+                "stars": 2088,
                 "topics": [
                   "bm1688",
                   "computer-vision",
@@ -347,10 +347,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-07T13:39:07Z",
-                "open_issues": 67,
+                "open_issues": 68,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16422,
+                "stars": 16435,
                 "topics": [
                   "arm",
                   "convolution",
@@ -386,11 +386,11 @@
                 "id": 95879426,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T23:47:02Z",
+                "last_commit": "2026-11-08T10:13:46Z",
                 "open_issues": 1295,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 24030,
+                "stars": 24029,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -439,7 +439,7 @@
                 "open_issues": 48,
                 "owner": "PaddlePaddle",
                 "repo": "Paddle-Lite",
-                "stars": 7289,
+                "stars": 7291,
                 "topics": [
                   "arm",
                   "baidu",
@@ -520,11 +520,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T14:22:05Z",
-                "open_issues": 3510,
+                "last_commit": "2026-11-08T09:25:43Z",
+                "open_issues": 3534,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201380,
+                "stars": 201400,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -702,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T16:29:56.992Z",
+    "last_updated": "2026-11-08T16:43:04.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",

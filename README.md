@@ -71,7 +71,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Arm Compute Library
 
-* Source code: <https://github.com/ARM-software/ComputeLibrary> ⭐ 3,208 | 🐛 9 | 🌐 C++ | 📅 2026-11-09
+* Source code: <https://github.com/ARM-software/ComputeLibrary> ⭐ 3,209 | 🐛 9 | 🌐 C++ | 📅 2026-11-09
 * Arm
 
 ### BakeNN
@@ -88,7 +88,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Caffe 2
 
-* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 105,466 | 🐛 18,248 | 🌐 Python | 📅 2026-11-13
+* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 105,483 | 🐛 18,205 | 🌐 Python | 📅 2026-11-14
 * Documentation: <https://caffe2.ai/>
 * Facebook
 
@@ -99,7 +99,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### CosmoEdge
 
-* Source code: <https://github.com/cosmo-wander-ai/cosmo-edge> ⭐ 2,093 | 🐛 13 | 🌐 C | 📅 2026-11-13
+* Source code: <https://github.com/cosmo-wander-ai/cosmo-edge> ⭐ 2,094 | 🐛 13 | 🌐 C | 📅 2026-11-13
 * Documentation: <https://www.cosmowander.ai/docs/>
 * CosmoEdge Contributors
 
@@ -127,7 +127,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### MNN
 
-* Source code: <https://github.com/alibaba/MNN> ⭐ 16,521 | 🐛 80 | 🌐 C++ | 📅 2026-11-13
+* Source code: <https://github.com/alibaba/MNN> ⭐ 16,525 | 🐛 82 | 🌐 C++ | 📅 2026-11-13
 * Alibaba
 
 ### MXNet
@@ -137,7 +137,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### NCNN
 
-* Source code: <https://github.com/tencent/ncnn> ⭐ 24,050 | 🐛 1,322 | 🌐 C++ | 📅 2026-11-13
+* Source code: <https://github.com/tencent/ncnn> ⭐ 24,050 | 🐛 1,324 | 🌐 C++ | 📅 2026-11-13
 * Tencent
 
 ### Neural Networks API
@@ -162,7 +162,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### TensorFlow Lite
 
-* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 201,583 | 🐛 3,444 | 🌐 C++ | 📅 2026-11-13
+* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 201,596 | 🐛 3,445 | 🌐 C++ | 📅 2026-11-14
 * Documentation: <https://www.tensorflow.org/lite/>
 * Google
 
@@ -219,7 +219,7 @@ The NXP® eIQ™ machine learning software development environment enables the u
 
 List of resources about AI Chips
 
-### [AI Chip (ICs and IPs)](https://github.com/basicmi/AI-Chip) ⭐ 1,709 | 🐛 26 | 🌐 Python | 📅 2026-11-13
+### [AI Chip (ICs and IPs)](https://github.com/basicmi/AI-Chip) ⭐ 1,708 | 🐛 27 | 🌐 Python | 📅 2026-11-14
 
 A list of ICs and IPs for AI, Machine Learning and Deep Learning
 
@@ -291,4 +291,4 @@ To the extent possible under law, [Bisonai](https://bisonai.com/) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

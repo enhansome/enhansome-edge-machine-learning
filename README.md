@@ -71,7 +71,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Arm Compute Library
 
-* Source code: <https://github.com/ARM-software/ComputeLibrary> ⭐ 3,211 | 🐛 10 | 🌐 C++ | 📅 2026-11-18
+* Source code: <https://github.com/ARM-software/ComputeLibrary> ⭐ 3,211 | 🐛 11 | 🌐 C++ | 📅 2026-11-18
 * Arm
 
 ### BakeNN
@@ -88,7 +88,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### Caffe 2
 
-* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 105,682 | 🐛 18,423 | 🌐 Python | 📅 2026-11-18
+* Source code: <https://github.com/pytorch/pytorch/tree/master/caffe2> ⭐ 105,705 | 🐛 18,437 | 🌐 Python | 📅 2026-11-19
 * Documentation: <https://caffe2.ai/>
 * Facebook
 
@@ -99,7 +99,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### CosmoEdge
 
-* Source code: <https://github.com/cosmo-wander-ai/cosmo-edge> ⭐ 2,104 | 🐛 15 | 🌐 C | 📅 2026-11-18
+* Source code: <https://github.com/cosmo-wander-ai/cosmo-edge> ⭐ 2,105 | 🐛 13 | 🌐 C | 📅 2026-11-19
 * Documentation: <https://www.cosmowander.ai/docs/>
 * CosmoEdge Contributors
 
@@ -127,7 +127,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### MNN
 
-* Source code: <https://github.com/alibaba/MNN> ⭐ 16,572 | 🐛 115 | 🌐 C++ | 📅 2026-11-18
+* Source code: <https://github.com/alibaba/MNN> ⭐ 16,576 | 🐛 120 | 🌐 C++ | 📅 2026-11-19
 * Alibaba
 
 ### MXNet
@@ -137,7 +137,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### NCNN
 
-* Source code: <https://github.com/tencent/ncnn> ⭐ 24,063 | 🐛 1,326 | 🌐 C++ | 📅 2026-11-17
+* Source code: <https://github.com/tencent/ncnn> ⭐ 24,073 | 🐛 1,318 | 🌐 C++ | 📅 2026-11-19
 * Tencent
 
 ### Neural Networks API
@@ -162,7 +162,7 @@ List of machine learning inference engines and APIs that are optimized for execu
 
 ### TensorFlow Lite
 
-* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 201,611 | 🐛 3,465 | 🌐 C++ | 📅 2026-11-18
+* Source code: <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite> ⭐ 201,647 | 🐛 3,442 | 🌐 C++ | 📅 2026-11-19
 * Documentation: <https://www.tensorflow.org/lite/>
 * Google
 
@@ -259,7 +259,7 @@ Competition with focus on the best vision solutions that can simultaneously achi
 
 ## Other Resources
 
-### [Awesome EMDL](https://github.com/EMDL/awesome-emdl) ⭐ 769 | 🐛 3 | 📅 2023-03-14
+### [Awesome EMDL](https://github.com/EMDL/awesome-emdl) ⭐ 768 | 🐛 3 | 📅 2023-03-14
 
 Embedded and mobile deep learning research resources
 
@@ -291,4 +291,4 @@ To the extent possible under law, [Bisonai](https://bisonai.com/) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

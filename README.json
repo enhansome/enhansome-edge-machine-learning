@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "ARM-software",
                 "repo": "ComputeLibrary",
-                "stars": 3210,
+                "stars": 3213,
                 "topics": [
                   "aarch64",
                   "android",
@@ -167,11 +167,11 @@
                 "id": 65600975,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T18:37:34Z",
-                "open_issues": 18476,
+                "last_commit": "2026-11-21T17:24:12Z",
+                "open_issues": 18488,
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 105750,
+                "stars": 105766,
                 "topics": [
                   "autograd",
                   "deep-learning",
@@ -347,10 +347,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-20T15:03:08Z",
-                "open_issues": 110,
+                "open_issues": 111,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16585,
+                "stars": 16587,
                 "topics": [
                   "arm",
                   "convolution",
@@ -386,11 +386,11 @@
                 "id": 95879426,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T15:04:54Z",
-                "open_issues": 1319,
+                "last_commit": "2026-11-21T00:44:28Z",
+                "open_issues": 1318,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 24081,
+                "stars": 24082,
                 "topics": [
                   "android",
                   "arm-neon",
@@ -520,11 +520,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T18:31:06Z",
-                "open_issues": 3469,
+                "last_commit": "2026-11-21T17:34:18Z",
+                "open_issues": 3471,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 201660,
+                "stars": 201667,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -561,7 +561,7 @@
                 "open_issues": 17,
                 "owner": "JDAI-CV",
                 "repo": "dabnn",
-                "stars": 775,
+                "stars": 776,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:21.939Z"
@@ -702,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T18:38:25.076Z",
+    "last_updated": "2026-11-21T17:37:19.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome edge machine learning resources, including research papers, inference engines, challenges, books, meetups and others.",
